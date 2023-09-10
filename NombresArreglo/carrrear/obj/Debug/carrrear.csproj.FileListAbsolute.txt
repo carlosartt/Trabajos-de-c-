@@ -1,0 +1,6 @@
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\carrrear\bin\Debug\carrrear.exe.config
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\carrrear\bin\Debug\carrrear.exe
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\carrrear\bin\Debug\carrrear.pdb
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\carrrear\obj\Debug\carrrear.csproj.CoreCompileInputs.cache
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\carrrear\obj\Debug\carrrear.exe
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\carrrear\obj\Debug\carrrear.pdb
