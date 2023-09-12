@@ -1,7 +1,0 @@
-C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\NombresArreglo\obj\Debug\NombresArreglo.csproj.AssemblyReference.cache
-C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\NombresArreglo\obj\Debug\NombresArreglo.csproj.CoreCompileInputs.cache
-C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\NombresArreglo\bin\Debug\NombresArreglo.exe.config
-C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\NombresArreglo\bin\Debug\NombresArreglo.exe
-C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\NombresArreglo\bin\Debug\NombresArreglo.pdb
-C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\NombresArreglo\obj\Debug\NombresArreglo.exe
-C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\NombresArreglo\NombresArreglo\obj\Debug\NombresArreglo.pdb

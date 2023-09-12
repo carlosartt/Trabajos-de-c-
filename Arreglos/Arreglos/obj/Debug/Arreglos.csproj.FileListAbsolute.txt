@@ -1,0 +1,7 @@
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.AssemblyReference.cache
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
