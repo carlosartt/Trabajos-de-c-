@@ -1,0 +1,7 @@
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\CuentaBancaria\bin\Debug\CuentaBancaria.exe.config
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\CuentaBancaria\bin\Debug\CuentaBancaria.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\CuentaBancaria\bin\Debug\CuentaBancaria.pdb
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\CuentaBancaria\obj\Debug\CuentaBanco.csproj.AssemblyReference.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\CuentaBancaria\obj\Debug\CuentaBanco.csproj.CoreCompileInputs.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\CuentaBancaria\obj\Debug\CuentaBancaria.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\CuentaBancaria\obj\Debug\CuentaBancaria.pdb

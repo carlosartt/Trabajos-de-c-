@@ -1,0 +1,7 @@
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Arreglos listo\bin\Debug\Arreglos listo.exe.config
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Arreglos listo\bin\Debug\Arreglos listo.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Arreglos listo\bin\Debug\Arreglos listo.pdb
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Arreglos listo\obj\Debug\Arreglos listo.csproj.AssemblyReference.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Arreglos listo\obj\Debug\Arreglos listo.csproj.CoreCompileInputs.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Arreglos listo\obj\Debug\Arreglos listo.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Arreglos listo\obj\Debug\Arreglos listo.pdb
