@@ -1,0 +1,7 @@
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\bin\Debug\Cuenta.exe.config
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\bin\Debug\Cuenta.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\bin\Debug\Cuenta.pdb
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.csproj.AssemblyReference.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.pdb

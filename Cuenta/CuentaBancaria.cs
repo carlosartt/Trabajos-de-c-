@@ -13,13 +13,7 @@ namespace Cuenta
 
     public int getpin()
     {
-        if (pin > 0)//Si hay un digito
-        {
-        }
-        else
-        {
-            Console.WriteLine("No hay pin");
-        }
+       
         return pin;
     }
     public void setpin(int digito)
@@ -30,8 +24,15 @@ namespace Cuenta
 
     public int getsaldo()
     {
-       
-        return pin;
+            if (pin > 0)//Si hay un digito
+            {
+            }
+            else
+            {
+                Console.WriteLine("No hay pin");
+            }
+
+            return pin;
     }
 
     public void setsaldo(int valor)
