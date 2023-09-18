@@ -5,3 +5,10 @@ C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cu
 C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.csproj.CoreCompileInputs.cache
 C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.exe
 C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.pdb
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Cuenta\bin\Debug\Cuenta.exe.config
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Cuenta\bin\Debug\Cuenta.exe
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Cuenta\bin\Debug\Cuenta.pdb
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.csproj.AssemblyReference.cache
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.exe
+C:\Users\MiPc\Documents\GitHub\Trabajos-de-c-\Cuenta\obj\Debug\Cuenta.pdb

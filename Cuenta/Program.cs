@@ -11,11 +11,13 @@ namespace Cuenta
         static void Main(string[] args)
         {
             CuentaBancaria cuenta = new CuentaBancaria();
+            
+            cuenta.setpin(202222964);
             cuenta.getpin();
-            cuenta.setpin(1234);
 
-            cuenta.getsaldo();
-            cuenta.setsaldo(33);
+            cuenta.setsaldo(15000);
+            cuenta.getsaldo();            
+
             Console.ReadLine();
 
 
