@@ -1,0 +1,7 @@
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\PracticasConstructores\bin\Debug\PracticasConstructores.exe.config
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\PracticasConstructores\bin\Debug\PracticasConstructores.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\PracticasConstructores\bin\Debug\PracticasConstructores.pdb
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\PracticasConstructores\obj\Debug\PracticasConstructores.csproj.AssemblyReference.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\PracticasConstructores\obj\Debug\PracticasConstructores.csproj.CoreCompileInputs.cache
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\PracticasConstructores\obj\Debug\PracticasConstructores.exe
+C:\Users\carlos.garciarodrig\Documents\GitHub\Trabajos-de-c-\PracticasConstructores\obj\Debug\PracticasConstructores.pdb
