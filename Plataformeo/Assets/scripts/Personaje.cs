@@ -8,7 +8,7 @@ public class Personaje : MonoBehaviour
     public int hp = 70;
     public int hpMax = 100;
     public int vidas = 3;
-    public int vidasMinimas = 1;
+    public int vidasMin = 1;
     public int score = 10;
 
     public GameObject heridasBloodPrefab;
@@ -37,7 +37,7 @@ public class Personaje : MonoBehaviour
 
     public void hacerDanio(int puntosDanio, GameObject enemigo)
     {
-        if (vidas>= vidasMinimas)
+        if (vidas>= vidasMin)
         {
             if (hp<= puntosDanio)
             {
