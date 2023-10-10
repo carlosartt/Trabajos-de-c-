@@ -11,6 +11,8 @@ public class controlador_jugador : MonoBehaviour
 
     private Rigidbody2D MiCuerpo;
     private Animator MiAnimador;
+    private EfectosSonoros misSonidos;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -51,18 +53,22 @@ public class controlador_jugador : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
-            if (contSaltos > 0)
+            if (contSaltos > 0)                
             if (enPiso)
             {
                     
                 MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
+
                 contSaltos--;
+                
                 }
             else
             {
                 MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
                 contSaltos --; //Disminuye los saltos
+               
             }
+           
         }
 
         MiAnimador.SetFloat("VEL_VERT", velVert);
@@ -82,3 +88,4 @@ public class controlador_jugador : MonoBehaviour
         }
     }
 }
+//misSonidos.reproducir("salto");

@@ -11,14 +11,16 @@ public class Personaje : MonoBehaviour
     public int vidasMin = 1;
     public int score = 10;
 
+    private Animator MiAnimador;
+
     public GameObject heridasBloodPrefab;
     public GameObject vidasMenosPrefab;
 
     // Start is called before the first frame update
     void Start()
     {
-       
 
+        MiAnimador = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -32,14 +34,15 @@ public class Personaje : MonoBehaviour
             GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
 
             efectoVidasMenos.transform.position = transform.position;
+            MiAnimador.SetTrigger("Morir");
         }
     }
 
     public void hacerDanio(int puntosDanio, GameObject enemigo)
     {
-        if (vidas>= vidasMin)
+        if (vidas >= vidasMin)
         {
-            if (hp<= puntosDanio)
+            if (hp <= puntosDanio)
             {
                 hp = 0;
             }
@@ -48,13 +51,15 @@ public class Personaje : MonoBehaviour
                 hp -= puntosDanio;
             }
             print(name + " recibe daño de " + puntosDanio + " por " + enemigo);
-            
+
             GameObject efectoDanio = Instantiate(heridasBloodPrefab);
 
             efectoDanio.transform.position = transform.position;
+
+            MiAnimador.SetTrigger("Dañar");
         }
-        
-        
+
+
     }
 
     public void muerteInsta(GameObject quien)
