@@ -4875,7 +4875,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 828529855}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
@@ -11206,7 +11206,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.1523714
+      value: 2.2884014
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalScale.z
@@ -11214,11 +11214,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -90.78
+      value: -92.92
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -30.18
+      value: -30.218
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalPosition.z

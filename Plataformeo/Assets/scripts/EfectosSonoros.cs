@@ -11,6 +11,11 @@ public class EfectosSonoros : MonoBehaviour
     public Efecto[] misEfectos;
     private AudioSource reproductor;
 
+    void Start()
+    {
+        reproductor = GetComponent<AudioSource>()
+    }
+
     public void reproducir(string accion)
     {
         foreach(Efecto e in misEfectos)

@@ -18,6 +18,7 @@ public class controlador_jugador : MonoBehaviour
     {
         MiCuerpo = GetComponent<Rigidbody2D>();
         MiAnimador = GetComponent<Animator>();
+        misSonidos = GetComponent<EfectosSonoros>();
 
     }
 
@@ -57,16 +58,20 @@ public class controlador_jugador : MonoBehaviour
             if (enPiso)
             {
                     
-                MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
+                    MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
 
                 contSaltos--;
                 
+                misSonidos.reproducir("salto");
+
                 }
             else
             {
                 MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
                 contSaltos --; //Disminuye los saltos
-               
+
+                
+
             }
            
         }
@@ -88,4 +93,3 @@ public class controlador_jugador : MonoBehaviour
         }
     }
 }
-//misSonidos.reproducir("salto");
