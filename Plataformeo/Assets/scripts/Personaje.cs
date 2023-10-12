@@ -11,8 +11,6 @@ public class Personaje : MonoBehaviour
     public int vidasMin = 1;
     public int score = 10;
 
-    //private Animator MiAnimador;
-
     public GameObject heridasBloodPrefab;
     public GameObject vidasMenosPrefab;
 
@@ -20,7 +18,7 @@ public class Personaje : MonoBehaviour
     void Start()
     {
 
-        //MiAnimador = GetComponent<Animator>();
+
     }
 
     // Update is called once per frame
@@ -34,8 +32,6 @@ public class Personaje : MonoBehaviour
             GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
 
             efectoVidasMenos.transform.position = transform.position;
-            //MiAnimador.SetTrigger("Morir");
-
         }
     }
 
@@ -56,8 +52,6 @@ public class Personaje : MonoBehaviour
             GameObject efectoDanio = Instantiate(heridasBloodPrefab);
 
             efectoDanio.transform.position = transform.position;
-
-            //MiAnimador.SetTrigger("Dañar");
         }
 
 
@@ -68,7 +62,7 @@ public class Personaje : MonoBehaviour
 
         print(name + " murio instantaneamente por " + quien);
         hp = 0;
-        MiAnimador.SetTrigger("Morir");
+
     }
 
 }
