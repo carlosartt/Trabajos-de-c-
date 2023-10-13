@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class Personaje : MonoBehaviour
 {
@@ -11,6 +12,9 @@ public class Personaje : MonoBehaviour
     public int vidasMin = 1;
     public int score = 10;
 
+    private Animator MiAnimado;
+    //private EfectosSonoros misSonidos;
+
     public GameObject heridasBloodPrefab;
     public GameObject vidasMenosPrefab;
 
@@ -18,7 +22,8 @@ public class Personaje : MonoBehaviour
     void Start()
     {
 
-
+        MiAnimado = GetComponent<Animator>();
+        //misSonidos = GetComponent<EfectosSonoros>();
     }
 
     // Update is called once per frame
@@ -32,6 +37,8 @@ public class Personaje : MonoBehaviour
             GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
 
             efectoVidasMenos.transform.position = transform.position;
+            MiAnimado.SetTrigger("Muriendo");
+            //misSonidos.reproducir("muerte");
         }
     }
 
@@ -52,6 +59,8 @@ public class Personaje : MonoBehaviour
             GameObject efectoDanio = Instantiate(heridasBloodPrefab);
 
             efectoDanio.transform.position = transform.position;
+            MiAnimado.SetTrigger("Dañando");
+            //misSonidos.reproducir("daño");
         }
 
 
@@ -62,7 +71,7 @@ public class Personaje : MonoBehaviour
 
         print(name + " murio instantaneamente por " + quien);
         hp = 0;
-
+       
     }
 
 }

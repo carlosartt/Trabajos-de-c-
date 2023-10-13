@@ -181,6 +181,10 @@ PrefabInstance:
       propertyPath: splashHeartPrefab
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 1102994840693335121, guid: 4a966d3f8e5c13b479c7106f061cd72c, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1102994840693335122, guid: 4a966d3f8e5c13b479c7106f061cd72c, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -236,6 +240,10 @@ PrefabInstance:
     - target: {fileID: 1102994840693335122, guid: 4a966d3f8e5c13b479c7106f061cd72c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1102994840693335123, guid: 4a966d3f8e5c13b479c7106f061cd72c, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1102994840693335124, guid: 4a966d3f8e5c13b479c7106f061cd72c, type: 3}
       propertyPath: m_Name
@@ -10346,7 +10354,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!4 &1672325293
 Transform:
   m_ObjectHideFlags: 0
@@ -10355,8 +10363,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1672325287}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -52.4337, y: -28.4869, z: 0}
-  m_LocalScale: {x: 11.952558, y: 11.952558, z: 11.952558}
+  m_LocalPosition: {x: -79.66, y: -27.95, z: 0}
+  m_LocalScale: {x: 15.814428, y: 15.814428, z: 15.814428}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -10816,7 +10824,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 90a2973ab68a87646bc43f992d3008a3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11072,6 +11080,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5481226121376022274, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022275, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_Name
       value: Cavernicola (Jugador)
@@ -11086,7 +11098,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.2884014
+      value: 2.313116
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalScale.z
@@ -11094,11 +11106,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -92.92
+      value: -91.72
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -30.218
+      value: -30.19
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalPosition.z
@@ -11130,6 +11142,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022277, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5481226121376022278, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
+      propertyPath: m_Size.y
+      value: 1.8088776
+      objectReference: {fileID: 0}
+    - target: {fileID: 5481226121376022278, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.008380463
+      objectReference: {fileID: 0}
+    - target: {fileID: 5481226121376022278, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.9755849
+      objectReference: {fileID: 0}
+    - target: {fileID: 5481226121376022278, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
+      propertyPath: m_Direction
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022328, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}

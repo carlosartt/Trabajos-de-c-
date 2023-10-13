@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class controlador_jugador : MonoBehaviour
 {
@@ -59,10 +60,10 @@ public class controlador_jugador : MonoBehaviour
             {
                     
                     MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
+                    
+                    contSaltos--;
+                    //misSonidos.reproducir("salto");
 
-                contSaltos--;
-                
-                //misSonidos.reproducir("salto");
 
                 }
             else
