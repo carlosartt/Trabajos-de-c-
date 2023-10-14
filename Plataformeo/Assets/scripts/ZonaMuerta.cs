@@ -1,44 +1,39 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
 
 public class ZonaMuerta : MonoBehaviour
 {
     public GameObject splashAguaPrefab;
     public GameObject splashHeartPrefab;
-    //private EfectosSonoros misSonidos;
+    private EfectoSonoros misSonidos;
 
-    void start()
+    void Start()
     {
-        //misSonidos = GetComponent<EfectosSonoros>();
+        misSonidos = GetComponent<EfectoSonoros>();
     }
-    
+
     private void OnTriggerEnter2D(Collider2D collision)
-    
     {
         GameObject otroObjeto = collision.gameObject;
-        if (otroObjeto.tag == "Player")
+        if (otroObjeto.CompareTag("Player"))
         {
-            print(name + " detecte colision con " + otroObjeto);
+            print(name + " detecté colisión con " + otroObjeto.name);
 
             Personaje elPerso = otroObjeto.GetComponent<Personaje>();
             elPerso.muerteInsta(this.gameObject);
 
-
             GameObject efectoSplash = Instantiate(splashAguaPrefab);
             efectoSplash.transform.position = elPerso.transform.position;
-            
 
+            if (misSonidos != null)
+            {
+                misSonidos.reproducir("splash"); // Reproduce el sonido "splash" del componente EfectoSonoros.
+            }
 
-            //corazon roto
+            // Corazón roto
             GameObject efectoBroke = Instantiate(splashHeartPrefab);
-
             efectoBroke.transform.position = elPerso.transform.position;
         }
     }
-} 
-//private EfectosSonoros misSonidos;
-//misSonidos = GetComponent<EfectosSonoros>();
-//misSonidos.reproducir("muerte");
-//misSonidos.reproducir("da�o");
+}

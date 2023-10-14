@@ -12,14 +12,16 @@ public class controlador_jugador : MonoBehaviour
 
     private Rigidbody2D MiCuerpo;
     private Animator MiAnimador;
-    //private EfectosSonoros misSonidos;
+    private EfectoSonoros misSonidos; 
+    
 
     // Start is called before the first frame update
     void Start()
     {
         MiCuerpo = GetComponent<Rigidbody2D>();
         MiAnimador = GetComponent<Animator>();
-        //misSonidos = GetComponent<EfectosSonoros>();
+        misSonidos = GetComponent<EfectoSonoros>();
+        
 
     }
 
@@ -62,7 +64,7 @@ public class controlador_jugador : MonoBehaviour
                     MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
                     
                     contSaltos--;
-                    //misSonidos.reproducir("salto");
+                    misSonidos.reproducir("salto");
 
 
                 }
@@ -70,6 +72,7 @@ public class controlador_jugador : MonoBehaviour
             {
                 MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
                 contSaltos --; //Disminuye los saltos
+                misSonidos.reproducir("salto");
 
                 
 

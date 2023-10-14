@@ -3,34 +3,26 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-
 [RequireComponent(typeof(AudioSource))]
-public class EfectosSonoros : MonoBehaviour
 
-
-
+public class EfectoSonoros : MonoBehaviour
 {
     public Efecto[] misEfectos;
     private AudioSource reproductor;
 
-
-    void start()
+    void Start()
     {
         reproductor = GetComponent<AudioSource>();
     }
-
-    public void reproducir(string accion)
+public void reproducir(string  accion)
     {
-        foreach (Efecto e in misEfectos)
+        foreach(Efecto e in misEfectos)
         {
-            //Si lo accion del efecto corresponde 
-            //a la accion solicitada en el param
-            if (e.accion == accion)
+        if (e.accion == accion)
             {
-                //asigno el sonido al reproductor
                 reproductor.clip = e.sonido;
                 reproductor.Play();
-                //corto la ejecucion del metodo
+
                 return;
             }
         }
@@ -41,7 +33,7 @@ public class EfectosSonoros : MonoBehaviour
     {
         public string accion;
         public AudioClip sonido;
-
     }
 
+   
 }

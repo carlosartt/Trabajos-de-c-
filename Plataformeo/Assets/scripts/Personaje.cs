@@ -13,7 +13,7 @@ public class Personaje : MonoBehaviour
     public int score = 10;
 
     private Animator MiAnimado;
-    //private EfectosSonoros misSonidos;
+    private EfectoSonoros misSonidos;
 
     public GameObject heridasBloodPrefab;
     public GameObject vidasMenosPrefab;
@@ -23,7 +23,7 @@ public class Personaje : MonoBehaviour
     {
 
         MiAnimado = GetComponent<Animator>();
-        //misSonidos = GetComponent<EfectosSonoros>();
+        misSonidos = GetComponent<EfectoSonoros>();
     }
 
     // Update is called once per frame
@@ -38,7 +38,7 @@ public class Personaje : MonoBehaviour
 
             efectoVidasMenos.transform.position = transform.position;
             MiAnimado.SetTrigger("Muriendo");
-            //misSonidos.reproducir("muerte");
+            misSonidos.reproducir("muerte");
         }
     }
 
@@ -53,14 +53,15 @@ public class Personaje : MonoBehaviour
             else
             {
                 hp -= puntosDanio;
+                MiAnimado.SetTrigger("DaÃ±ando");
+                misSonidos.reproducir("daÃ±o");
             }
-            print(name + " recibe daño de " + puntosDanio + " por " + enemigo);
+            print(name + " recibe daÃ±o de " + puntosDanio + " por " + enemigo);
 
             GameObject efectoDanio = Instantiate(heridasBloodPrefab);
 
             efectoDanio.transform.position = transform.position;
-            MiAnimado.SetTrigger("Dañando");
-            //misSonidos.reproducir("daño");
+            
         }
 
 
