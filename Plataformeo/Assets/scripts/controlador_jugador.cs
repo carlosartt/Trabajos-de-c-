@@ -54,6 +54,10 @@ public class controlador_jugador : MonoBehaviour
             MiCuerpo.velocity = new Vector3(0, velVert, 0);
             MiAnimador.SetBool("CAMINANDO", false);
         }
+        if (Input.GetButton("Fire1"))
+        {
+            MiAnimador.SetTrigger("Golpear");
+        }
 
         if (Input.GetButtonDown("Jump"))
         {
@@ -65,17 +69,12 @@ public class controlador_jugador : MonoBehaviour
                     
                     contSaltos--;
                     misSonidos.reproducir("salto");
-
-
                 }
             else
             {
                 MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
                 contSaltos --; //Disminuye los saltos
                 misSonidos.reproducir("salto");
-
-                
-
             }
            
         }
