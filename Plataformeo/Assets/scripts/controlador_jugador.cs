@@ -56,7 +56,7 @@ public class controlador_jugador : MonoBehaviour
         }
         if (Input.GetButton("Fire1"))
         {
-            MiAnimador.SetTrigger("Golpear");
+            MiAnimador.SetTrigger("Golpeando");
         }
 
         if (Input.GetButtonDown("Jump"))
