@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemigo
+  - playercollider
+  - enemies
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - enemies
   - Water
   - UI
   - 

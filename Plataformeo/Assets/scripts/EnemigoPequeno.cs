@@ -4,32 +4,45 @@ using UnityEngine;
 
 public class EnemigoPequeno : MonoBehaviour
 {
-    private Rigidbody2D MiCuerpo;
-    private Animator MiAnimador;
+    private Rigidbody2D miCuerpo;
+    private Animator miAnimador;
     public bool heroeCerca = false;
-    public float velocidadCaminar= 3;
-    
-   
+    public float velocidadCaminar = 3;
+
+
 
     // Start is called before the first frame update
     void Start()
     {
-        MiCuerpo = GetComponent<Rigidbody2D>();
-        MiAnimador = GetComponent<Animator>();
+        miCuerpo = GetComponent<Rigidbody2D>();
+        miAnimador = GetComponent<Animator>();
     }
 
+    void Uptade()
+    {
+        if (heroeCerca)
+        {
+            miCuerpo.velocity = transform.right * velocidadCaminar;
+            miAnimador.SetBool("CAMINANDO", true);
+        }
+        else
+        {
+            miCuerpo.velocity = Vector3.zero;
+            miAnimador.SetBool("CAMINANDO", false);
+        }
+    }
     // Update is called once per frame
-    
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        GameObject otroObjeto = collision.gameObject;
-        if (otroObjeto.tag == "Player")
-            {
-           
-            print(name + "enemigo cerca de " + otroObjeto);
+        GameObject otro = collision.gameObject;
+        if (otro.tag == "Player")
+        {
+
+            print(name + "enemigo cerca de " + otro.name);
             heroeCerca = true;
 
-            if (otroObjeto.transform.position.x < this.transform.position.x)
+            if (otro.transform.position.x < this.transform.position.x)
             {
                 transform.rotation = Quaternion.Euler(0, 180, 0);
             }
@@ -39,41 +52,36 @@ public class EnemigoPequeno : MonoBehaviour
                 transform.rotation = Quaternion.Euler(0, 0, 0);
             }
 
-            Personaje elPerso = otroObjeto.GetComponent<Personaje>();
-            float posicionHeroe = otroObjeto.transform.position.x;
+            Personaje elPerso = otro.GetComponent<Personaje>();
+            float posicionHeroe = otro.transform.position.x;
             float posicionEnemigo = this.transform.position.x;
-            
-           
+
+
         }
-                
-                
-                
-                
 
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-         GameObject otroObjeto = collision.gameObject;
-         if (collision.tag == "Player")
-         {
+
+        if (collision.tag == "Player")
+        {
             print(collision.gameObject.name + " lejos de " + name);
             heroeCerca = false;
-         }
-         
+        }
+
     }
 
-    void Uptade()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (heroeCerca)
+        GameObject otro = collision.gameObject;
+        if (otro.tag == "Player")
         {
-            MiCuerpo.velocity = transform.right * velocidadCaminar;
-            MiAnimador.SetBool("CAMINANDO", true);
+            print(name + " detecte colision con " + otro);
+
+            Personaje elPerso = otro.GetComponent<Personaje>();
+
+            elPerso.hacerDanio(5, this.gameObject);
         }
-        else
-        {
-            MiCuerpo.velocity = Vector3.zero;
-            MiAnimador.SetBool("CAMINANDO", false);
-        }
+
     }
-    
 }
