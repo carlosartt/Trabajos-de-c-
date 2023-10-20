@@ -4,26 +4,25 @@ using UnityEngine;
 
 public class Arma : MonoBehaviour
 {
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         GameObject otro = collision.gameObject;
 
-        if (otro.tag == "Enemigo")
+        if (otro.CompareTag("Enemigo"))
         {
-            print(name + " detecte colision con " + otro);
+            // Verifica si la colisión ocurrió con el CapsuleCollider2D del enemigo
+            CapsuleCollider2D enemigoCollider = otro.GetComponent<CapsuleCollider2D>();
+            if (enemigoCollider != null && collision == enemigoCollider)
+            {
+                print(name + " detectó colisión con " + otro);
 
-            Personaje elPerso = otro.GetComponent<Personaje>();
+                Personaje elPerso = otro.GetComponent<Personaje>();
 
-            elPerso.hacerDanio(5, this.gameObject);
-
+                if (elPerso != null)
+                {
+                    elPerso.hacerDanio(5, this.gameObject);
+                }
+            }
         }
-
     }
 }
-
-
-
-
-
-
