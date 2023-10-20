@@ -10,6 +10,7 @@ public class Trampa : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         GameObject otroObjeto = collision.gameObject;
+
         if (otroObjeto.tag == "Player")
         {
             print(name + " detecte colision con " + otroObjeto);
