@@ -74,5 +74,11 @@ public class Personaje : MonoBehaviour
         hp = 0;
        
     }
+    public void matar(GameObject atacante)
+    {
+        print(name + " muere a manos de " + atacante);
+        hp = 0;
+        vidas--;
+    }
 
 }
