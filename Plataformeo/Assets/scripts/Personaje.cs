@@ -11,8 +11,9 @@ public class Personaje : MonoBehaviour
     public int vidas = 3;
     public int vidasMin = 1;
     public int score = 10;
+    public bool bloqueado= false;
 
-    private Animator MiAnimado;
+    private Animator miAnimado;
     private EfectoSonoros misSonidos;
 
     public GameObject heridasBloodPrefab;
@@ -22,7 +23,7 @@ public class Personaje : MonoBehaviour
     void Start()
     {
 
-        MiAnimado = GetComponent<Animator>();
+        miAnimado = GetComponent<Animator>();
         misSonidos = GetComponent<EfectoSonoros>();
     }
 
@@ -32,38 +33,47 @@ public class Personaje : MonoBehaviour
         if (hp <= 0 && vidas > 0)
         {
             vidas--;
-            hp = hpMax;
+           
 
             GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
 
             efectoVidasMenos.transform.position = transform.position;
-            MiAnimado.SetTrigger("Muriendo");
+            miAnimado.SetTrigger("Muriendo");
             misSonidos.reproducir("muerte");
         }
     }
 
     public void hacerDanio(int puntosDanio, GameObject enemigo)
     {
-        if (vidas >= vidasMin)
+        if (estaVivo())
         {
-            if (hp <= puntosDanio)
+            if (vidas >= vidasMin)
             {
-                hp = 0;
-            }
-            else
-            {
-                hp -= puntosDanio;
-                MiAnimado.SetTrigger("Dañando");
-                misSonidos.reproducir("daño");
-            }
-            print(name + " recibe daño de " + puntosDanio + " por " + enemigo);
+                if (hp <= puntosDanio)
+                {
+                    bloqueado = true;
+                    //Dentro de 1.2 segundos se va a ejecutar el metodo llamado desbloquear
 
-            GameObject efectoDanio = Instantiate(heridasBloodPrefab);
+                    Invoke("desbloquear", 1.2f);
 
-            efectoDanio.transform.position = transform.position;
-            
+                    hp = 0;
+                }
+                else
+                {
+                    hp -= puntosDanio;
+
+
+                    miAnimado.SetTrigger("Dañando");
+                    misSonidos.reproducir("daño");
+                }
+                print(name + " recibe daño de " + puntosDanio + " por " + enemigo);
+
+                GameObject efectoDanio = Instantiate(heridasBloodPrefab);
+
+                efectoDanio.transform.position = transform.position;
+
+            }
         }
-
 
     }
 
@@ -79,6 +89,15 @@ public class Personaje : MonoBehaviour
         print(name + " muere a manos de " + atacante);
         hp = 0;
         vidas--;
+    }
+    public void desbloquear()
+    {
+        bloqueado = false;
+    }
+
+    public bool estaVivo()
+    {
+        return hp > 0;
     }
 
 }

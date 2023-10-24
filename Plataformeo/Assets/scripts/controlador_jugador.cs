@@ -12,7 +12,9 @@ public class controlador_jugador : MonoBehaviour
 
     private Rigidbody2D MiCuerpo;
     private Animator MiAnimador;
-    private EfectoSonoros misSonidos; 
+    private EfectoSonoros misSonidos;
+    private Personaje miPersonaje;
+
     
 
     // Start is called before the first frame update
@@ -21,20 +23,22 @@ public class controlador_jugador : MonoBehaviour
         MiCuerpo = GetComponent<Rigidbody2D>();
         MiAnimador = GetComponent<Animator>();
         misSonidos = GetComponent<EfectoSonoros>();
-        
+        miPersonaje = GetComponent<Personaje>();
 
     }
 
     // Update is called once per frame
     void Update()
     {
+        bool puedoMoverme = miPersonaje.estaVivo() && !miPersonaje.bloqueado;
+
         //lo primero en el uptade es detectar el piso
         detectarPiso();
 
         float velVert = MiCuerpo.velocity.y;
         float movHoriz = Input.GetAxis("Horizontal");
 
-        if (movHoriz > 0)//Se mueve a la derecha
+        if (movHoriz > 0 && puedoMoverme)//Se mueve a la derecha
         {
             transform.rotation = Quaternion.Euler(0, 0, 0);
 
@@ -42,7 +46,7 @@ public class controlador_jugador : MonoBehaviour
 
             MiAnimador.SetBool("CAMINANDO", true);
         }
-        else if (movHoriz < 0) //Se mueve a la izq
+        else if (movHoriz < 0 && puedoMoverme) //Se mueve a la izq
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
 
@@ -54,12 +58,12 @@ public class controlador_jugador : MonoBehaviour
             MiCuerpo.velocity = new Vector3(0, velVert, 0);
             MiAnimador.SetBool("CAMINANDO", false);
         }
-        if (Input.GetButton("Fire1"))
+        if (Input.GetButton("Fire1") && puedoMoverme)
         {
             MiAnimador.SetTrigger("Golpeando");
         }
 
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && puedoMoverme)
         {
             if (contSaltos > 0)                
             if (enPiso)
