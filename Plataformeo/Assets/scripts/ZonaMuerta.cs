@@ -31,9 +31,7 @@ public class ZonaMuerta : MonoBehaviour
                 misSonidos.reproducir("splash"); // Reproduce el sonido "splash" del componente EfectoSonoros.
             }
 
-            // Corazón roto
-            GameObject efectoBroke = Instantiate(splashHeartPrefab);
-            efectoBroke.transform.position = elPerso.transform.position;
+            
         }
     }
 }

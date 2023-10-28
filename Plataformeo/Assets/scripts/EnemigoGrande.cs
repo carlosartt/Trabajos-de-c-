@@ -27,6 +27,7 @@ public class EnemigoGrande : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        bool puedeMoverse = heroeJugador.GetComponent<Personaje>().estaVivo();
 
         Vector3 miPos = this.transform.position;
         Vector3 posHeroe = heroeJugador.transform.position;
@@ -36,13 +37,16 @@ public class EnemigoGrande : MonoBehaviour
             print(heroeJugador.name + " cerca de " + name);
             heroeCerca = true;
 
-            if (heroeJugador.transform.position.x < this.transform.position.x)
+            if (puedeMoverse)
             {
-                transform.rotation = Quaternion.Euler(0, 180, 0);
-            }
-            else
-            {
-                transform.rotation = Quaternion.Euler(0, 0, 0);
+                if (heroeJugador.transform.position.x < this.transform.position.x)
+                {
+                    transform.rotation = Quaternion.Euler(0, 180, 0);
+                }
+                else
+                {
+                    transform.rotation = Quaternion.Euler(0, 0, 0);
+                }
             }
         }
         
@@ -51,26 +55,29 @@ public class EnemigoGrande : MonoBehaviour
             heroeCerca = false;
         }
 
-
-        if (heroeCerca)
+        if (puedeMoverse)
         {
-            miCuerpo.velocity = transform.right * velocidadCaminar;
-            miAnimador.SetBool("CAMINANDO", true);
+            if (heroeCerca)
+            {
+                miCuerpo.velocity = transform.right * velocidadCaminar;
+                miAnimador.SetBool("CAMINANDO", true);
 
 
+            }
         }
-
         else
         {
             miCuerpo.velocity = Vector3.zero;
             miAnimador.SetBool("CAMINANDO", false);
         }
 
-
-        if (distanciaheroe < distanciaDeAtaque)
+        if (puedeMoverse)
         {
-            // Activa la animación de ataque.
-            miAnimador.SetTrigger("Golpeando");
+            if (distanciaheroe < distanciaDeAtaque)
+            {
+                // Activa la animación de ataque.
+                miAnimador.SetTrigger("Golpeando");
+            }
         }
     }
 

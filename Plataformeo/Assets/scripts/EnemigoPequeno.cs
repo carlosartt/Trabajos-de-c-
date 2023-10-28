@@ -24,17 +24,21 @@ public class EnemigoPequeno : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        bool puedeMoverse = heroeJugador.GetComponent<Personaje>().estaVivo();
+        
 
         Vector3 miPos = this.transform.position;
         Vector3 posHeroe = heroeJugador.transform.position;
         float distanciaheroe = (miPos - posHeroe).magnitude;
 
-        
-            if (distanciaheroe < rangoAgro)
-            {//el heroe esta dentro del area de agro
-                print(heroeJugador.name + " cerca de " + name);
-                heroeCerca = true;
+
+        if (distanciaheroe < rangoAgro)
+        {//el heroe esta dentro del area de agro
+            print(heroeJugador.name + " cerca de " + name);
+            heroeCerca = true;
+
+            if (puedeMoverse)
+            {
 
                 if (heroeJugador.transform.position.x < this.transform.position.x)
                 {
@@ -45,21 +49,22 @@ public class EnemigoPequeno : MonoBehaviour
                     transform.rotation = Quaternion.Euler(0, 0, 0);
                 }
             }
-        
+        }
         else
         {
             heroeCerca = false;
         }
 
-
-        if (heroeCerca)
+        if (puedeMoverse)
         {
-            miCuerpo.velocity = transform.right * velocidadCaminar;
-            miAnimador.SetBool("CAMINANDO", true);
+            if (heroeCerca)
+            {
+                miCuerpo.velocity = transform.right * velocidadCaminar;
+                miAnimador.SetBool("CAMINANDO", true);
 
 
+            }
         }
-
         else
         {
             miCuerpo.velocity = Vector3.zero;
@@ -112,7 +117,7 @@ public class EnemigoPequeno : MonoBehaviour
 
             Personaje elPerso = otro.GetComponent<Personaje>();
 
-            elPerso.hacerDanio(5, this.gameObject);
+            elPerso.hacerDanio(puntosDanio, this.gameObject);
         }
     }
 }

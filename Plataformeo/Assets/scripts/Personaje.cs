@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using System;
+
 
 public class Personaje : MonoBehaviour
 {
@@ -40,7 +42,13 @@ public class Personaje : MonoBehaviour
             efectoVidasMenos.transform.position = transform.position;
             miAnimado.SetTrigger("Muriendo");
             misSonidos.reproducir("muerte");
+           
         }
+        if (hp <= 0)
+        {
+            Invoke("ReiniciarNivel", 3f);
+        }
+       
     }
 
     public void hacerDanio(int puntosDanio, GameObject enemigo)
@@ -76,6 +84,8 @@ public class Personaje : MonoBehaviour
         }
 
     }
+    
+    
 
     public void muerteInsta(GameObject quien)
     {
@@ -100,4 +110,16 @@ public class Personaje : MonoBehaviour
         return hp > 0;
     }
 
+    public void ReiniciarNivel()
+    {
+        SceneManager.LoadScene("Nivel1");
+    }
+     public void JugadorMuerto()
+    {
+        hp = 0;
+
+        // Llama al método para reiniciar la escena
+        ReiniciarNivel();
+    }
+    
 }

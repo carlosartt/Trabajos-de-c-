@@ -31,6 +31,7 @@ public class controlador_jugador : MonoBehaviour
     void Update()
     {
         bool puedoMoverme = miPersonaje.estaVivo() && !miPersonaje.bloqueado;
+        
 
         //lo primero en el uptade es detectar el piso
         detectarPiso();
@@ -85,6 +86,8 @@ public class controlador_jugador : MonoBehaviour
 
         MiAnimador.SetFloat("VEL_VERT", velVert);
     }
+  
+
 
     void detectarPiso()
     {
