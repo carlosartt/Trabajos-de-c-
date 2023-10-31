@@ -14,6 +14,7 @@ public class Personaje : MonoBehaviour
     public int vidasMin = 1;
     public int score = 10;
     public bool bloqueado= false;
+  
 
     private Animator miAnimado;
     private EfectoSonoros misSonidos;
@@ -32,19 +33,20 @@ public class Personaje : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (hp <= 0 && vidas > 0)
+        if ( hp <= 0 && vidas > 0)
         {
             vidas--;
-           
+            
 
             GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
 
             efectoVidasMenos.transform.position = transform.position;
             miAnimado.SetTrigger("Muriendo");
             misSonidos.reproducir("muerte");
+            hp = hpMax;
            
         }
-        if (hp <= 0)
+        if (hp <= 0 )
         {
             Invoke("ReiniciarNivel", 3f);
         }
@@ -92,7 +94,13 @@ public class Personaje : MonoBehaviour
 
         print(name + " murio instantaneamente por " + quien);
         hp = 0;
-       
+        vidas = 0;
+
+        GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
+
+        efectoVidasMenos.transform.position = transform.position;
+        miAnimado.SetTrigger("Muriendo");
+        misSonidos.reproducir("muerte");
     }
     public void matar(GameObject atacante)
     {
