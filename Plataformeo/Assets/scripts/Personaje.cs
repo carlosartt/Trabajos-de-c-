@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEditor.UI;
 using System;
 
 
@@ -13,14 +14,16 @@ public class Personaje : MonoBehaviour
     public int vidas = 3;
     public int vidasMin = 1;
     public int score = 10;
-    public bool bloqueado= false;
-  
+    public bool bloqueado = false;
+    private bool yaEjecutado = false;
+
 
     private Animator miAnimado;
     private EfectoSonoros misSonidos;
 
     public GameObject heridasBloodPrefab;
     public GameObject vidasMenosPrefab;
+   
 
     // Start is called before the first frame update
     void Start()
@@ -33,10 +36,14 @@ public class Personaje : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if ( hp <= 0 && vidas > 0)
+        if (hp <= 0 && vidas > 0)
         {
             vidas--;
-            
+
+            bloqueado = true;
+            //Dentro de 1.2 segundos se va a ejecutar el metodo llamado desbloquear
+
+            Invoke("desbloquear", 1.2f);
 
             GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
 
@@ -44,13 +51,25 @@ public class Personaje : MonoBehaviour
             miAnimado.SetTrigger("Muriendo");
             misSonidos.reproducir("muerte");
             hp = hpMax;
-           
+            Invoke("reiniciarNivel", 3f);
+
         }
-        if (hp <= 0 )
+        if (hp <= 0 && vidas <= 0 && !yaEjecutado)
         {
-            Invoke("ReiniciarNivel", 3f);
+            GameObject efectoVidasMenos = Instantiate(vidasMenosPrefab);
+
+            efectoVidasMenos.transform.position = transform.position;
+            miAnimado.SetTrigger("Muriendo");
+            misSonidos.reproducir("muerte");
+
+            yaEjecutado = true;
+            ;
+
+            
+
+            Invoke("gameOver", 2f);
         }
-       
+
     }
 
     public void hacerDanio(int puntosDanio, GameObject enemigo)
@@ -59,23 +78,16 @@ public class Personaje : MonoBehaviour
         {
             if (vidas >= vidasMin)
             {
-                if (hp <= puntosDanio)
-                {
-                    bloqueado = true;
-                    //Dentro de 1.2 segundos se va a ejecutar el metodo llamado desbloquear
+                hp -= puntosDanio;
 
-                    Invoke("desbloquear", 1.2f);
+                bloqueado = true;
+                //Dentro de 1.2 segundos se va a ejecutar el metodo llamado desbloquear
 
-                    hp = 0;
-                }
-                else
-                {
-                    hp -= puntosDanio;
+                Invoke("desbloquear", 1.2f);
 
+                miAnimado.SetTrigger("Dañando");
+                misSonidos.reproducir("daño");
 
-                    miAnimado.SetTrigger("Dañando");
-                    misSonidos.reproducir("daño");
-                }
                 print(name + " recibe daño de " + puntosDanio + " por " + enemigo);
 
                 GameObject efectoDanio = Instantiate(heridasBloodPrefab);
@@ -86,8 +98,8 @@ public class Personaje : MonoBehaviour
         }
 
     }
-    
-    
+
+
 
     public void muerteInsta(GameObject quien)
     {
@@ -118,16 +130,22 @@ public class Personaje : MonoBehaviour
         return hp > 0;
     }
 
-    public void ReiniciarNivel()
+    public void reiniciarNivel()
     {
         SceneManager.LoadScene("Nivel1");
     }
-     public void JugadorMuerto()
+
+    public void gameOver()
+    {
+        SceneManager.LoadScene("GameOver");
+    }
+    public void estaMuerto()
     {
         hp = 0;
+        vidas = 0;
 
         // Llama al método para reiniciar la escena
-        ReiniciarNivel();
+        reiniciarNivel();
     }
-    
+
 }
