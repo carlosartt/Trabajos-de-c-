@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicios_Clases__atributos_y_métodos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
