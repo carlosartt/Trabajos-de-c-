@@ -14,6 +14,7 @@ public class Personaje : MonoBehaviour
     public int vidas = 3;
     public int vidasMin = 1;
     public int score = 10;
+    public int dinero = 0;
     public bool bloqueado = false;
     private bool yaEjecutado = false;
 
@@ -51,7 +52,7 @@ public class Personaje : MonoBehaviour
             miAnimado.SetTrigger("Muriendo");
             misSonidos.reproducir("muerte");
             hp = hpMax;
-            Invoke("reiniciarNivel", 3f);
+            //Invoke("reiniciarNivel", 3f);
 
         }
         if (hp <= 0 && vidas <= 0 && !yaEjecutado)
@@ -97,6 +98,13 @@ public class Personaje : MonoBehaviour
             }
         }
 
+    }
+    public void ganarDinero (int cantDinero, GameObject Tesoro)
+    {
+        if (estaVivo())
+        {
+            dinero += cantDinero;  
+        }
     }
 
 

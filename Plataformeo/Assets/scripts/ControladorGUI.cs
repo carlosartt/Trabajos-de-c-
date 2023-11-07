@@ -9,6 +9,7 @@ public class ControladorGUI : MonoBehaviour
     public Text EtiquetaHPHeroe;
     public Text EtiquetaVidasHeroe;
     public Text EtiquetaScoreHeroe;
+    public Text EtiquetaDinero;
     
     public Image BarraHPHeroe;
     public Image BarraScoreHeroe;
@@ -30,6 +31,7 @@ public class ControladorGUI : MonoBehaviour
         EtiquetaHPHeroe.text = Heroe.hp + "/" + Heroe.hpMax;
         EtiquetaVidasHeroe.text = Heroe.vidas + " UP";
         EtiquetaScoreHeroe.text = "HIGH SCORE: " + Heroe.score;
+        EtiquetaDinero.text = "$" + Heroe.dinero;
 
         /* Calculo el porcenatje de hp
           que le queda al cavernicola*/
