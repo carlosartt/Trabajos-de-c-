@@ -29,7 +29,7 @@ public class ControladorGUI : MonoBehaviour
     {
         //Muestro en texto el HP
         EtiquetaHPHeroe.text = Heroe.hp + "/" + Heroe.hpMax;
-        EtiquetaVidasHeroe.text = Heroe.vidas + " UP";
+        EtiquetaVidasHeroe.text = Personaje.vidas + " UP";
         EtiquetaScoreHeroe.text = "HIGH SCORE: " + Heroe.score;
         EtiquetaDinero.text = "$" + Heroe.dinero;
 

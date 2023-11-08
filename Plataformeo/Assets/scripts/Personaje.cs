@@ -11,7 +11,7 @@ public class Personaje : MonoBehaviour
 
     public int hp = 70;
     public int hpMax = 100;
-    public int vidas = 3;
+    public static int vidas = 3;
     public int vidasMin = 1;
     public int score = 10;
     public int dinero = 0;
@@ -52,7 +52,7 @@ public class Personaje : MonoBehaviour
             miAnimado.SetTrigger("Muriendo");
             misSonidos.reproducir("muerte");
             hp = hpMax;
-            //Invoke("reiniciarNivel", 3f);
+            Invoke("reiniciarNivel", 3f);
 
         }
         if (hp <= 0 && vidas <= 0 && !yaEjecutado)

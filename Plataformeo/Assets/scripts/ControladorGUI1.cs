@@ -28,7 +28,7 @@ public class ControladorGUI1 : MonoBehaviour
     {
         //Muestro en texto el HP
         EtiquetaHPEnemigo.text = Enemigo.hpMax + "/" +  Enemigo.hp;
-        EtiquetaVidasEnemigo.text = Enemigo.vidas + " UP";
+        EtiquetaVidasEnemigo.text = Personaje.vidas + " UP";
         EtiquetaScoreEnemigo.text = "HIGH SCORE: " + Enemigo.score;
 
         /* Calculo el porcenatje de hp
