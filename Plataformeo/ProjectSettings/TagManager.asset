@@ -8,6 +8,7 @@ TagManager:
   - playercollider
   - enemies
   - Tesoro
+  - Boost
   layers:
   - Default
   - TransparentFX

@@ -122,12 +122,15 @@ public class Personaje : MonoBehaviour
         miAnimado.SetTrigger("Muriendo");
         misSonidos.reproducir("muerte");
     }
+
+
     public void matar(GameObject atacante)
     {
         print(name + " muere a manos de " + atacante);
         hp = 0;
         vidas--;
     }
+   
     public void desbloquear()
     {
         bloqueado = false;

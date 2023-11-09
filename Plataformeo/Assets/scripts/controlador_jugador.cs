@@ -102,4 +102,12 @@ public class controlador_jugador : MonoBehaviour
             contSaltos = 1;
         }
     }
+    public void duplicarVelocidad()
+    {
+        velocidadCaminar *= 2;
+    }
+    public void velocidadoriginal()
+    {
+        velocidadCaminar *= 1;
+    }
 }

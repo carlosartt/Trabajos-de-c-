@@ -127,9 +127,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 40
   hpMax: 40
-  vidas: 3
   vidasMin: 1
   score: 10
+  dinero: 0
+  bloqueado: 0
   heridasBloodPrefab: {fileID: 4553287630450876385, guid: 15483e51212e3d74886ea57291f4639a, type: 3}
   vidasMenosPrefab: {fileID: 5985634496115995773, guid: 463cf9f7af4680240898f6aeba3fe3e6, type: 3}
 --- !u!114 &6390931863913686746
@@ -145,8 +146,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidadCaminar: 2
-  puntosDanio: 10
-  rangoAgro: 2
+  puntosDanio: 5
+  rangoAgro: 3
 --- !u!82 &6390931863913686745
 AudioSource:
   m_ObjectHideFlags: 0
