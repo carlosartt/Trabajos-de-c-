@@ -1,0 +1,2489 @@
+fileFormatVersion: 2
+guid: 3997f1cc9bd2c9a47981e41e15c9b613
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 663
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012fabd686af981439ac7add66759514
+      internalID: -361162071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 664
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24003a68f4079bf438829d0a47d24a01
+      internalID: -1055189858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f1752b73c8824791518a578b3444d
+      internalID: 813495297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 663
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad637943e79164fa1d3311bd8475b4
+      internalID: 1176872716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 664
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707b4c83d3d0e045ba93613687d3e81
+      internalID: 1753870091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d1fe96b27a3d418fff57d7bb3bdf8
+      internalID: 843400499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 663
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8914eb757723b6408d7a845edb13716
+      internalID: 690360184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 662
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad73bd12dc68d1c43b0d6f6867f5b9b0
+      internalID: 28443542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 662
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd5978258fc608468c93992601fbccc
+      internalID: -99060395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 667
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8201c5d8ffa3d4fa289bc6db3f4a64
+      internalID: -2145225618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 625
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9de18f931b484787c43f81fe30048
+      internalID: 1068263667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 628
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579945f4808f42a4bb7ffa56a834aa75
+      internalID: -149312756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 634
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c49bccc26d0846baf423b8661572e
+      internalID: 399738869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 625
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b7a1afef50cc40a7c61d1091fc4b0
+      internalID: -552306438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 625
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ec9ecebe94874ba4833581fb3ed4e
+      internalID: -1942607369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 634
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b760995a29da3d4f9bde8fc8ce56d1d
+      internalID: -1770950887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 594
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9881c6d898ce340ad89e56f4a7dff4
+      internalID: 304144429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 594
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176723a0a3651244994028279f23b29
+      internalID: -352661039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 594
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989a2ae359eafc4bb381cf97b67e7bf
+      internalID: -1386139896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 561
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842f31a6c581d5468a498466edae698
+      internalID: 1662388575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 561
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11cb50956eb3cb4aaf39b2808595153
+      internalID: 389394029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 561
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e72e0717681de4fbbb1f12ad9346f9
+      internalID: 195779540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 561
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b313f6c89743eb4781fdaaefba97392
+      internalID: -875289110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 561
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6136dc2fc4ec74eb7c6b7df9898a3a
+      internalID: 1927164745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 528
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3e2080055ae74cbafa1f5326582fd
+      internalID: 1691103049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 520
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a71dbb7647c184daa8958905b8a357
+      internalID: 1492918304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 519
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1386160fea11edf42aa336479451560d
+      internalID: 2079577560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 521
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e01b80b45ca8c640a710ff1fa266ac2
+      internalID: 708851013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 520
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa723478e58fee54d95946952e565ea6
+      internalID: -608863530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 520
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff7ec076fbce7489871c48001776e0
+      internalID: -1803656940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 519
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77366ac73a447a24a9c5cad3c3280c54
+      internalID: -43840170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 519
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755898e99a237c441b30d4880c8f9c8a
+      internalID: -1080735569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 519
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e714919a37d6439278b8bc428733c
+      internalID: -485300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 519
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd977678299934498bc62cf5966c786
+      internalID: -1802696075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 497
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8955a5aeb3fb4479d8c67cf4beb488
+      internalID: 1096978690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 497
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2969411f37c0d45801513940902b04
+      internalID: -802503984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 489
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a718aa73a7b9418c6e546ae016f63
+      internalID: 1763044482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 489
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13492630a62042a4a8083717abc4ea89
+      internalID: 2090466327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 489
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa883827e21f5409235fb5efe9782e
+      internalID: -1188340461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 488
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e5be87d96b5de489e657ea02496158
+      internalID: -236563887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b318e993de6a8479abe696778dd21c
+      internalID: 1520475610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 489
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0947f83030eac408d2fe1de9e73399
+      internalID: -242332043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 489
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c839420b1a9f0438f6f7120444f644
+      internalID: 1949550619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 489
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dff040dae9a5945961ac65c89c6013
+      internalID: -26576165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 489
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3e3b00aaffe5408870f1e851a0848
+      internalID: 1816192565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 454
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfdf04c0c291aa4890d11179c3edd2b
+      internalID: 1269654139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 454
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e38a35d40d9e147acb645954624dac
+      internalID: -1108609494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 454
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4ecc221636eb42a695ba169ae4bb2
+      internalID: 999620230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 454
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b08f7a9af3db4ebda971ae5aa108a
+      internalID: 671205222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 454
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a6068d9bb325f46abc0d94b2bacdd6
+      internalID: -2086432758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 454
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53beb80d4dc1e1418ebebc077d2251c
+      internalID: -100051957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 453
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039414860eb71194491519d4e0fa0e2e
+      internalID: 2126915322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 421
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05976e0fdbffe4c9c1424002e50fd2
+      internalID: 2135389070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 422
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54240b1d26c249d46a749a4b4a41a4b9
+      internalID: 1671584905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 420
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e068bb7413324abf47ca027550071
+      internalID: 624126442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 420
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a702ea7f9f0d142b74fd9e8c7df684
+      internalID: 289612231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee50aa3ff7cc747aadd3e675f3325e
+      internalID: -922149210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 384
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e55386e82826f4e9ad3ce2a8b582dc
+      internalID: -201971412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d4f74c0bbc26c4593e950046818c2c
+      internalID: -2024298043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 385
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289178b24d4e1354fb604c871e5fb0ba
+      internalID: -2067568428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ff344171d1f64abe653a24ce42126
+      internalID: -1782810304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 384
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84dded2f6f7eee4ebc9f79ce321c947
+      internalID: -1266005141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 342
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea94fef621a55469a49e0b89e71eda
+      internalID: 44988397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 345
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b7ee3e1809ce44da3960a79b0f0e59
+      internalID: 160946380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 345
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0644dd7b4d3294ea5b655ee3f0f56d
+      internalID: -522215963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 342
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0eda898ff01040aef1fe743c06a9a
+      internalID: -467389235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 342
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ff8ef7ce537524da0a079d60b93531
+      internalID: -1865663490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 343
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3bfdabbcc75934b90bc9c873fdc586
+      internalID: -385342297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 310
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1922e69e2862ca6459aadd356d0d976a
+      internalID: 1145713880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 310
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e89ec35922e124ea2dcd5cc0a95252
+      internalID: 479222747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 265
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106f41e7efcaffc43b81157dd5d8ae0b
+      internalID: 363434953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 265
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f213392bb47d11643bbadf99e35eb669
+      internalID: -1005962943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 267
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4bb89ec42690f42ae12447d94fc0a6
+      internalID: -584580512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 268
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d90faf81fa62e04a980c765d5d6883c
+      internalID: 1214003445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 266
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995427a9a7299b74fb54f71dc0cfde79
+      internalID: -37542256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 265
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787a929d86e092478000bc5b562e62a
+      internalID: -1039910070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 265
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25183862b1787c42b5b772b6a3c99c1
+      internalID: -1010631867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 265
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18933018616f5514c8584ee7a9925c19
+      internalID: 368230445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 265
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a844e02825e79449d2153c14825f42
+      internalID: -1174128528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2feb9bf4897c4fb9ac05009ca315f
+      internalID: -1418332472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c8ce7634e7e14488dd97e0b4026d8
+      internalID: -96089924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 233
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b538887fa2eb14da825d9364e17fbb
+      internalID: -89219361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 202
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b050a3d3d5004f4daf98ea8329b2a7d
+      internalID: 1720991944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 190
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f0d351d254494b96feac8283f4c19
+      internalID: -1037110716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348afba7434fd6439815a846c29e2c1
+      internalID: -225247678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 182
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b17c17813de94f97a9a50aa210995
+      internalID: -96630945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 188
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5e8c006788c74c9105f54dc045478
+      internalID: 1643574987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 195
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c5682662a8c0409a26b1fd1c32e92
+      internalID: 381291302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 196
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1275c40c73d8e87418c7ad28f7bc3d08
+      internalID: 2142635336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 188
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920771f93d4f447469cbc6fda25e56c1
+      internalID: 626316562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 185
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735d0569eac6a44f9796b688aa7f67f
+      internalID: -126126875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 184
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c6a4d2d25db14f837bd908b81a4ca
+      internalID: 1962426158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 187
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d0b5d5fe42474cad59d35126d7f42
+      internalID: 1403452921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 186
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ffebd45379d3a4789e633df8ef47aa
+      internalID: -164915789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 201
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33a5f901e821841ae8a775e167caeb
+      internalID: -1500084107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376d56a90bba08341b90ee26cdea010a
+      internalID: -1813152546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 132
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf7f5c2fde567438046407f41cc173
+      internalID: -714739682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90c3a602ae435478a94a134372f10a
+      internalID: -2043331332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 132
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cf3449514348d4d9aeff04269798b2
+      internalID: 1328979395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 132
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840331721989f74aaebfb76d002a3a4
+      internalID: -133333540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 132
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02336a2f9d5b58742bc648eab2ccfb12
+      internalID: -731580544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb106455a783c4748b089d29219336aa
+      internalID: 160066844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9449e526daed4797fd1b867fb54f1
+      internalID: -1533253339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a84eb00ad6804a902e7c98da86f63
+      internalID: 547016569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c1396b719f4f846b34a42175e11be5
+      internalID: -1137633104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5988e0d1dc9c4da44f57ef6b42895
+      internalID: -125715938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7483d588f8baa409e11c70c41a5df7
+      internalID: -1034160848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_0: -361162071
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_1: -1055189858
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_10: 1068263667
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_100: -731580544
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_101: 160066844
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_102: -1533253339
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_103: 547016569
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_104: -1137633104
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_105: -125715938
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_106: -1034160848
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_11: -149312756
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_12: 399738869
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_13: -552306438
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_14: -1942607369
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_15: -1770950887
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_16: 304144429
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_17: -352661039
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_18: -1386139896
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_19: 1662388575
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_2: 813495297
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_20: 389394029
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_21: 195779540
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_22: -875289110
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_23: 1927164745
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_24: 1691103049
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_25: 1492918304
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_26: 2079577560
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_27: 708851013
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_28: -608863530
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_29: -1803656940
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_3: 1176872716
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_30: -43840170
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_31: -1080735569
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_32: -485300024
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_33: -1802696075
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_34: 1096978690
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_35: -802503984
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_36: 1763044482
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_37: 2090466327
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_38: -1188340461
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_39: -236563887
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_4: 1753870091
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_40: 1520475610
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_41: -242332043
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_42: 1949550619
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_43: -26576165
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_44: 1816192565
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_45: 1269654139
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_46: -1108609494
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_47: 999620230
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_48: 671205222
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_49: -2086432758
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_5: 843400499
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_50: -100051957
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_51: 2126915322
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_52: 2135389070
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_53: 1671584905
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_54: 624126442
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_55: 289612231
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_56: -922149210
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_57: -201971412
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_58: -2024298043
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_59: -2067568428
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_6: 690360184
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_60: -1782810304
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_61: -1266005141
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_62: 44988397
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_63: 160946380
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_64: -522215963
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_65: -467389235
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_66: -1865663490
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_67: -385342297
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_68: 1145713880
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_69: 479222747
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_7: 28443542
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_70: 363434953
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_71: -1005962943
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_72: -584580512
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_73: 1214003445
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_74: -37542256
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_75: -1039910070
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_76: -1010631867
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_77: 368230445
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_78: -1174128528
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_79: -1418332472
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_8: -99060395
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_80: -96089924
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_81: -89219361
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_82: 1720991944
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_83: -1037110716
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_84: -225247678
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_85: -96630945
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_86: 1643574987
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_87: 381291302
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_88: 2142635336
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_89: 626316562
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_9: -2145225618
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_90: -126126875
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_91: 1962426158
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_92: 1403452921
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_93: -164915789
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_94: -1500084107
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_95: -1813152546
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_96: -714739682
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_97: -2043331332
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_98: 1328979395
+      Mobile_-_Crash_Bandicoot_Mutant_Island_-_Crash-removebg-preview_99: -133333540
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

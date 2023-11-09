@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: c0756c95f821f7a4382d58fa525181db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c6f60c60d809d4a9f2e434ae899e41
+      internalID: 308406400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 120
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a791a417e4fcaac4aada5ff9fe69638b
+      internalID: -2142859711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37804ba6df631394aa26401cfacb5327
+      internalID: -1875540537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 104
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f71d1fe2cb3e04a820688f2428adcd
+      internalID: -710989462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 136
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9304ab90967eb7348b927676d4693db5
+      internalID: -842799719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62c6265f07d9b14ea71303a9c5e9ffd
+      internalID: 1553393318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 72
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6fb6b8cbd07d4e87fdbd0f9ce3bd5
+      internalID: -1448158125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 76
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e49aa60d1d265c4b959bbb2a8d23938
+      internalID: 771265558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 92
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8662a4071964542b860bd67182ac44
+      internalID: -1318111741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70329845d55a0fb47a75f0b6b1b5c758
+      internalID: -1194267186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 60
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66001d10400294f9d2d8c2f08844dc
+      internalID: -1645275667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 62
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167fbeed5a4c5f4394465d1cd267e39
+      internalID: 1182976297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 70
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c9832006c81ac499426266df67fb61
+      internalID: -215277015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc24257173884db4abbfdcb05ac10b32
+      internalID: -1322007777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1c6ed3b294134cb409e76b7dd1743
+      internalID: -701256707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 54
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df073681db873ee499b79cc3458550c6
+      internalID: 798719613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 48
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a654fe31ace844ba8ca0ae5cc1dcb
+      internalID: 327762396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 26
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ae99d5ae906541a3e4cb88fb1a4ac
+      internalID: 1150484436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 23
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97522663a2f8064cbc9c51b643f121c
+      internalID: 2016923381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde3e74b66d14da41ae331c246db2700
+      internalID: 1350035920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a50396d79dd6934b9ab820b58d7ff26
+      internalID: 1360261269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 27
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d604f5fa38d324e98de39e6c034f61
+      internalID: 1600211654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 27
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6cda8db4c7494a864d453e48292b3
+      internalID: -635825420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 23
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd631d56e729534b9016abc40d4bdb7
+      internalID: 203762608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b2b3f6733c1c4db18d997fd38661d
+      internalID: -774739218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd2b93e5ad4654892416fe96d21684
+      internalID: -2008467691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051614a42dc2684aaad191058dd6f67
+      internalID: 1437909548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e407f2d080fc148a9c1161663bdfaa
+      internalID: -1867522706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26d5f6c98f9f8245917c80fd5dc558a
+      internalID: 1157012748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0482980af93a4599d16a7dc5c77fb
+      internalID: 1136219351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cd47f07346eb8408a8d11bd75c83b3
+      internalID: 1980034663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d60efe8864f54f9b73b17df7783e8
+      internalID: 424972563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38fcfa8f6bbca1428c074bc734cbb33
+      internalID: -117597188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d3cb4403f001458ebe05cc5b6c63b
+      internalID: 1898298887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_0: 308406400
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_1: -2142859711
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_10: -1645275667
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_11: 1182976297
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_12: -215277015
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_13: -1322007777
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_14: -701256707
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_15: 798719613
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_16: 327762396
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_17: 1150484436
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_18: 2016923381
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_19: 1350035920
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_2: -1875540537
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_20: 1360261269
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_21: 1600211654
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_22: -635825420
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_23: 203762608
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_24: -774739218
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_25: -2008467691
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_26: 1437909548
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_27: -1867522706
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_28: 1157012748
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_29: 1136219351
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_3: -710989462
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_30: 1980034663
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_31: 424972563
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_32: -117597188
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_33: 1898298887
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_4: -842799719
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_5: 1553393318
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_6: -1448158125
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_7: 771265558
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_8: -1318111741
+      3DS_-_Sonic___All-Stars_Racing_Transformed_-_Boost_Pad-removebg-preview_9: -1194267186
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
