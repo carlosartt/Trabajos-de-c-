@@ -9,6 +9,7 @@ TagManager:
   - enemies
   - Tesoro
   - Boost
+  - Boton
   layers:
   - Default
   - TransparentFX
