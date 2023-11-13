@@ -8,6 +8,7 @@ public class Tesoro : MonoBehaviour
     private EfectoSonoros misSonidos;
     private Animator MiAnimador;
 
+
     // Start is called before the first frame update
     void Start()
     {

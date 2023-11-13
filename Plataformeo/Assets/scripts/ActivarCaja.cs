@@ -4,36 +4,63 @@ using UnityEngine;
 
 public class ActivarCaja : MonoBehaviour
 {
+    private Animator miAnimador;
+    private EfectoSonoros misSonidos;
+    public GameObject cofreItem;
+    public float cofreDelay;
+    public bool cofreObtenido = false;
+    public GameObject botonE;
 
-    private GameObject boton;
     // Start is called before the first frame update
     void Start()
     {
+
+        misSonidos = GetComponent<EfectoSonoros>();
+        miAnimador = GetComponent<Animator>();
+        botonE = GameObject.Find("BotonE");
+        botonE.SetActive(false);
+    }
+
+    void OnTriggerStay2D(Collider2D col)
+    {       
+        if (col.CompareTag("Player"))
+        {
+            if (!cofreObtenido)
+            {
+                print(col.name + " toco " + name);
+                botonE.SetActive(true);
+
+                if (Input.GetKeyDown(KeyCode.E) && !cofreObtenido)
+                {
+                    misSonidos.reproducir("abrir");
+                    miAnimador.Play("cofre_abrir");
+                    StartCoroutine(getCofreitem());
+                    Destroy(gameObject, 1f);
+                    botonE.SetActive(false);
+                }
+            }
+            else
+            {
+                // Si el ítem ya ha sido tomado, desactivar el botónE
+                botonE.SetActive(false);
+            }
+
+        }
         
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+
+    private void OnTriggerExit2D(Collider2D other)
     {
-
-        GameObject otro = collision.gameObject;
-        if (otro.tag == "Player")
-        {
-
-            print(otro.name + " toco " + name);
-            Personaje elPerso = otro.GetComponent<Personaje>();
-            
-
-
-
-
-
-        }
-
-
-
+        botonE.SetActive(false);
     }
-    public void activarCofre()
+
+    public IEnumerator getCofreitem()
     {
-       
+        yield return new WaitForSeconds(cofreDelay);
+        Instantiate(cofreItem, transform.position, Quaternion.identity);
+        cofreObtenido = true;
+      
     }
+    
 }
