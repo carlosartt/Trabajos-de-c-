@@ -22,7 +22,7 @@ public class ActivarCaja : MonoBehaviour
     }
 
     void OnTriggerStay2D(Collider2D col)
-    {       
+    {
         if (col.CompareTag("Player"))
         {
             if (!cofreObtenido)
@@ -34,7 +34,7 @@ public class ActivarCaja : MonoBehaviour
                 {
                     misSonidos.reproducir("abrir");
                     miAnimador.Play("cofre_abrir");
-                    StartCoroutine(getCofreitem());
+                    Invoke("ObtenerCofreItem", cofreDelay);
                     Destroy(gameObject, 1f);
                     botonE.SetActive(false);
                 }
@@ -46,7 +46,7 @@ public class ActivarCaja : MonoBehaviour
             }
 
         }
-        
+
     }
 
 
@@ -55,12 +55,13 @@ public class ActivarCaja : MonoBehaviour
         botonE.SetActive(false);
     }
 
-    public IEnumerator getCofreitem()
+    void ObtenerCofreItem()
     {
-        yield return new WaitForSeconds(cofreDelay);
-        Instantiate(cofreItem, transform.position, Quaternion.identity);
-        cofreObtenido = true;
-      
+        if (!cofreObtenido)
+        {
+            Instantiate(cofreItem, transform.position, Quaternion.identity);
+            cofreObtenido = true;
+        }
+
     }
-    
 }

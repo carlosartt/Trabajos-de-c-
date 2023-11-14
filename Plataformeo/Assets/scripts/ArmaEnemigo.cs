@@ -1,29 +1,8 @@
-/*using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Arma : MonoBehaviour
-{
-    public int puntosAtaque = 30;
-
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        GameObject otro = collision.gameObject;
-        print("Arma " + name + " colisiona con " + otro);
-        if (otro.tag =="Enemigo")
-        {                                             
-            Personaje elPerso = otro.GetComponent<Personaje>();
-            elPerso.hacerDanio(puntosAtaque, this.gameObject);                         
-        }
-    }
-}*/
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Arma : MonoBehaviour
+public class ArmaEnemigo : MonoBehaviour
 {
     //public int puntosAtaque = 30;
     private void OnTriggerEnter2D(Collider2D collision)
@@ -38,7 +17,7 @@ public class Arma : MonoBehaviour
             {
                 print(name + " detectó colisión con " + otro);
 
-                PersonajeNo elPerso = otro.GetComponent<PersonajeNo>();
+                Personaje elPerso = otro.GetComponent<Personaje>();
 
                 if (elPerso != null)
                 {

@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemigoPequeno : MonoBehaviour
@@ -13,10 +12,12 @@ public class EnemigoPequeno : MonoBehaviour
     private Rigidbody2D miCuerpo;
     private GameObject heroeJugador;
 
+    private bool puedeMoverse = true;
+
     // Start is called before the first frame update
     void Start()
     {
-        miCuerpo = GetComponent<Rigidbody2D>();//invocacion del componente 
+        miCuerpo = GetComponent<Rigidbody2D>();
         miAnimador = GetComponent<Animator>();
         heroeJugador = GameObject.FindGameObjectWithTag("Player");
     }
@@ -24,79 +25,74 @@ public class EnemigoPequeno : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        bool puedeMoverse = heroeJugador.GetComponent<Personaje>().estaVivo();
-        
+        // Verificar si el personaje está vivo antes de realizar acciones
+        if (heroeJugador.GetComponent<Personaje>().estaVivo() && puedeMoverse)
+        {
+            Vector3 miPos = transform.position;
+            Vector3 posHeroe = heroeJugador.transform.position;
+            float distanciaheroe = (miPos - posHeroe).magnitude;
 
-        Vector3 miPos = this.transform.position;
-        Vector3 posHeroe = heroeJugador.transform.position;
-        float distanciaheroe = (miPos - posHeroe).magnitude;
-
-
-        if (distanciaheroe < rangoAgro)
-        {//el heroe esta dentro del area de agro
-            print(heroeJugador.name + " cerca de " + name);
-            heroeCerca = true;
-
-            if (puedeMoverse)
+            if (distanciaheroe < rangoAgro)
             {
+                print(heroeJugador.name + " cerca de " + name);
+                heroeCerca = true;
 
-                if (heroeJugador.transform.position.x < this.transform.position.x)
+                if (puedeMoverse)
                 {
-                    transform.rotation = Quaternion.Euler(0, 180, 0);
-                }
-                else
-                {
-                    transform.rotation = Quaternion.Euler(0, 0, 0);
+                    if (heroeJugador.transform.position.x < transform.position.x)
+                    {
+                        transform.rotation = Quaternion.Euler(0, 180, 0);
+                    }
+                    else
+                    {
+                        transform.rotation = Quaternion.Euler(0, 0, 0);
+                    }
                 }
             }
-        }
-        else
-        {
-            heroeCerca = false;
-        }
+            else
+            {
+                heroeCerca = false;
+                miCuerpo.velocity = Vector2.zero;
+                miAnimador.SetBool("CAMINANDO", false);
+            }
 
-        if (puedeMoverse)
-        {
-            if (heroeCerca)
+            if (puedeMoverse && heroeCerca)
             {
                 miCuerpo.velocity = transform.right * velocidadCaminar;
                 miAnimador.SetBool("CAMINANDO", true);
-
-
+            }
+            else
+            {
+                miCuerpo.velocity = Vector2.zero;
+                miAnimador.SetBool("CAMINANDO", false);
             }
         }
         else
         {
-            miCuerpo.velocity = Vector3.zero;
+            // Si el jugador está muerto, regresar al estado de idle
+            heroeCerca = false;
+            miCuerpo.velocity = Vector2.zero;
             miAnimador.SetBool("CAMINANDO", false);
         }
-
-
-
-        
     }
+
     void OnTriggerEnter2D(Collider2D collision)
     {
-
         GameObject otro = collision.gameObject;
         if (otro.tag == "Player")
         {
             print(otro.name + " cerca de " + name);
             heroeCerca = true;
 
-            if (otro.transform.position.x < this.transform.position.x)
+            if (otro.transform.position.x < transform.position.x)
             {
                 transform.rotation = Quaternion.Euler(0, 180, 0);
             }
-
             else
             {
                 transform.rotation = Quaternion.Euler(0, 0, 0);
             }
         }
-
-
-
     }
 
     void OnTriggerExit2D(Collider2D collision)
@@ -105,6 +101,8 @@ public class EnemigoPequeno : MonoBehaviour
         {
             print(collision.gameObject.name + " lejos de " + name);
             heroeCerca = false;
+            miCuerpo.velocity = Vector2.zero; // Detener el movimiento cuando el jugador está fuera del rango
+            miAnimador.SetBool("CAMINANDO", false);
         }
     }
 
@@ -116,9 +114,7 @@ public class EnemigoPequeno : MonoBehaviour
             print(name + " detecte colision con " + otro);
 
             Personaje elPerso = otro.GetComponent<Personaje>();
-
             elPerso.hacerDanio(puntosDanio, this.gameObject);
         }
     }
 }
-
