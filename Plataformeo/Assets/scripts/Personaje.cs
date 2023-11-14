@@ -53,7 +53,8 @@ public class Personaje : MonoBehaviour
             misSonidos.reproducir("muerte");
             hp = hpMax;
 
-            Invoke("reiniciarNivel", 3f);
+            Invoke("spawnRepoint", 1f);
+            //Invoke("reiniciarNivel", 3f);
 
         }
         if (hp <= 0 && vidas <= 0 && !yaEjecutado)

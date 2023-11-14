@@ -10,6 +10,7 @@ TagManager:
   - Tesoro
   - Boost
   - Boton
+  - CheackPoint
   layers:
   - Default
   - TransparentFX
