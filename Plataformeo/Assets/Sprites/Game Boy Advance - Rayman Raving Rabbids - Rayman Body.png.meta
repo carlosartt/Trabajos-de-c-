@@ -1,0 +1,6933 @@
+fileFormatVersion: 2
+guid: 51e91abc232836045bd9e6b7c6fd4ac9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1280
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c017fbe448b21479ec28690c3ca27f
+      internalID: -2082619922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1280
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6a3290937c404eafdb485f17fd38d
+      internalID: -1385437176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1280
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5509098c46cffa04ab5c72f2d1151ad0
+      internalID: 869754386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1297
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701067ff98909cd499d1f1251a7bdf2c
+      internalID: 1062566454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1298
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5c22f1d4e0a3a4884ac4e9fb8b413e
+      internalID: 847448946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1298
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59085e86062441e4f8d482354d0049b7
+      internalID: -42775074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1297
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530c7f3b8c208cf47ae4f3fc01901013
+      internalID: 1208564874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1280
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0aa583efd19e647b634c06de6c1dec
+      internalID: -1397748636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1280
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b7415b0fcc4746bf0244dfdc898ff
+      internalID: 588448288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1280
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c673e174dc35ec4383cae829c3dd393
+      internalID: -905000225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1280
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d26cdf5fb9a4848ad5d1fdec36d543
+      internalID: 1393060211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1280
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea3cccb64748ef4aa3f40514b8e9106
+      internalID: 1643812172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1280
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b9619612b8204da7a1dc2eea6b792
+      internalID: 1320740562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1280
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2810a6adb6f14ea682996c6249872
+      internalID: -228559603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1280
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f987cfe15c092449abacd0d3dd4162
+      internalID: -1847430699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1210
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdceee29a4cbac24793ba4aae4e55915
+      internalID: -1621164885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1221
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b327a8a547eb4643a718d1d30d3916f
+      internalID: -116881256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1218
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84f239e3e93735419b309757c3ed277
+      internalID: 1716886896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1231
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b4528ab409c94c8c7943cc7dcfc7d
+      internalID: -2127424620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1209
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92357c3cadaeacb49b1a12c26109aa95
+      internalID: -1813388060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1200
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c0bf765b4cabd42bc9f729ae75d746
+      internalID: 2053266793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1211
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893352ea752df9448170270316d7c1e
+      internalID: 104712318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1214
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb709e14284f24148b4a7b944bac58c4
+      internalID: 1901452341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1230
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99efffa9ad1c741baf40e83ca426a2
+      internalID: -956782127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1230
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a79277ecfdc946907b9850b89f6e5
+      internalID: 1363540694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1201
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd9544bcfd5594192b7eb6cab8ff3b
+      internalID: 1618827344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1210
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea070caa2015944f96e121d7fb2af24
+      internalID: 144011689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1200
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901c704cbc76fe64cb1fb457c5f2515f
+      internalID: -273647218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1200
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60560bd051065a419fe76eae9f91f6b
+      internalID: -1083297779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1212
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f387a9064fad4081b03c141eae73d
+      internalID: 2127224732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1213
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae5a8fcc464fe459e11d18d0142179
+      internalID: 1570790612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1200
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a6c3d66e23654dadc0a6773772cbd
+      internalID: 947288595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1200
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4487e8bfd54add43bb6c5270e48c10f
+      internalID: 1645413351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1200
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092f558759e24174baa6790f632412b4
+      internalID: 996748564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1200
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcbb6e9600f3c841ba187740c8d5377
+      internalID: -1177394012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1200
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580841f080ff884b8114d7c7f4950eb
+      internalID: -1372104294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1128
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d252efc3c7de46a15b3fbc7073c4f
+      internalID: -1059675746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1128
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c600d8b35fbc449a017ce118ea9fba
+      internalID: -1334761092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1129
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dfc8a62521f0b4a8e86ae2a4f399fb
+      internalID: -1451670456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1130
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a118b2465315c4db76a6ee0bfaa593
+      internalID: 2055078819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1131
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594eb66c145e10747be04b8da38f5fea
+      internalID: -2002590015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1131
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077bf661c96d77743989ca0b3fdd9a69
+      internalID: -1548389232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_42
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1131
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dcaeff5b281d4449274b16fe39a05c
+      internalID: -132945262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1131
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2c869cf8137b469d51499bc9fa420
+      internalID: -1089927021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1130
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708cc42d2de66994c9c1a26717b32a6b
+      internalID: -1612007260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_45
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1129
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd65273a3637bc4381eafee5edd9183
+      internalID: 919825714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f96900ab8808348b442696fa07b342
+      internalID: 540700521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979cd557d80ee814892c856d26b58376
+      internalID: -1748967374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66afc3cb8df441f44962d092b74cd467
+      internalID: 1789815961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b8f51e3d148c4eab3e0dacd297a11
+      internalID: 988295192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5388439f18aa144bcd4e6cca3f5df8
+      internalID: -847605463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a402a2900efeab4790c07a3110d3182
+      internalID: -144712295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806627dfa8461145b606c58633945fc
+      internalID: 1319054030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd4224c687b91448ad6e8ed3c7c4868
+      internalID: 857710839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b60ec8b8aa6049b2a8d3ea141241e
+      internalID: -1512768079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1116
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17addd2786b35f343a47f83145510740
+      internalID: -688494434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1081
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ceb5e709e88445a199c8a7e2aefd4
+      internalID: -649206259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1080
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005616ba0d0014849a0e8a0c0f1de28c
+      internalID: -172537195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1079
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028559c5f259ff14993064ab31fe2cf7
+      internalID: -157908351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1079
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a291102ed259fc4589748a62b82d7f0
+      internalID: 1486238005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1078
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c199102184e3c44ada66e5e745316c
+      internalID: -66942705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1079
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032fdf0ca35f0b643afe66ebf2452e45
+      internalID: 335106626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1079
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51ff83df57b3145aabd16625946a1a
+      internalID: 335840213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1080
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06bee9d1a889546b935e6fbbf0b48a
+      internalID: -646153457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1063
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bcf083265a1164b8453e2a8a1df143
+      internalID: -1215916523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1063
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a744c824bf5140a1af1b62642c75d
+      internalID: -258762619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1062
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260ffba9c338cc14caadc2c84e0df096
+      internalID: 1396442334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1061
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d9fcd0ed3a454e929e89fc786a378
+      internalID: 2069117938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1060
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117634188d5ee04397af79fc962cfad
+      internalID: 1626283335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_69
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1061
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a00f61f0bb5c49bfe624e45295442
+      internalID: 986005927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_70
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1062
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ff6738c167414f98cc617dbbfddf9
+      internalID: 305115962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_71
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1063
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026e8136a57ddd4da9603dae2135108
+      internalID: -394568068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8d225fd447dc49876e28f33d57067
+      internalID: 1789774538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ca469ffb012140b609f45540cd62e
+      internalID: -1781880400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_74
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8cd57d70c773c40baa5935c5b8034f
+      internalID: 1417259158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b735c82a5ed2ea45959a835472a433a
+      internalID: -189195556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbdbbdc7e756544b8e715475f431fa6
+      internalID: -1798443804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa9f0bc4e2bfb458e7560c8821aa48
+      internalID: -1360304051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_78
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1691cfaa114f48874a33043bf0ba2
+      internalID: -923196818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1048
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa731f1779277f3428402e8b35125d8f
+      internalID: 421204989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 994
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e18ac38a93e4134db30d5c055eb0170
+      internalID: -947402218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 994
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65880c44e0decd34c81383a4e621684a
+      internalID: -1291990910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 996
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697dc874e6bd0d542a4b06c3ad9c1a26
+      internalID: 1744266160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 994
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90af99bef9f84e44b84f220a19240747
+      internalID: 1649249220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_84
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 992
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35cbae07bad6b44397f07768f21b6a3
+      internalID: -56370030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_85
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 992
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d036c086fade4e84283f768cb28dc485
+      internalID: 884687863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_86
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 992
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e6d8a83bc50a445b6c2668e45c3aff
+      internalID: 113962932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 992
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4015142542e07184999775311ca8ca69
+      internalID: 1503863796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_88
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 979
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b07d0cda1f30264aa39230543631ccd
+      internalID: -112525784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_89
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 992
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42146671e419d17438777a4bd9d0aadc
+      internalID: 1374644224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 979
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb2d297ccc0d049b7a582f907127e8
+      internalID: 737781726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 979
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cde48c0e939c744b81716d5cb5bdbc
+      internalID: -915708565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_92
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 979
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55128a946f68a243b0ea1134a0b42df
+      internalID: -1902495535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 979
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f1e0b7527d80e41bf1dd3542df1a17
+      internalID: 458435587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_94
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 979
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5dff731774ed74bb6d884c56f4b8af
+      internalID: 25850038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_95
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 979
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf89123aecf66c48bfbeb444fb9ccbe
+      internalID: -550002992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_96
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 979
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27b713f6f6d7149822951667075204
+      internalID: 496584909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_97
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 979
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a375264000306e46923680b5a7cc87b
+      internalID: -1589618570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_98
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 979
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fea902e64076b48b0d86045aa3dbd0
+      internalID: -420041223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_99
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 913
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aee01dc17b7964e9b1efaf469602c8
+      internalID: -1727434742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_100
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 941
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710dce9cfd266d247bf6f2aa6ef6384b
+      internalID: 1693244497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_101
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 940
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184bf566bdf637e4e8874655a59080c9
+      internalID: 101250890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 937
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0348f8b1d4241a48b0635ebd97c2311
+      internalID: -1372333445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 914
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb651108b468d14429203dfdbfc5beba
+      internalID: -1465226738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_104
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 913
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc7c8a5240df144ac80b421f42fb0e
+      internalID: 247213828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_105
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 924
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbc8a03782d32c4c8cc57a6ac2bc616
+      internalID: -876742387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_106
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 911
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8c2602f7a9dd45b8f32cee0258248
+      internalID: -1945203249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_107
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 917
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b95ee2dc660112449bb461c55298f1e
+      internalID: 897331239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 903
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c217550d003f94fbcae126b5365af2
+      internalID: -447457730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 906
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237bc7158bcece41956cfa9a88f6bda
+      internalID: 1782676409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_110
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 906
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c680a027fe3e6c4c9d7e44975467c2c
+      internalID: -1088309961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_111
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 905
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82cf4eb9d34eb44b2d46767be2ba1a
+      internalID: -1153511717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 903
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850cd7088265f6a40a49a5163d23aed5
+      internalID: -1840473053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_113
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 903
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419108121d46004185e403b1e682f43
+      internalID: -1311708560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 835
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8b85120eebab4da232fbd019d142b
+      internalID: 801489643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_115
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 863
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d214d9a2b60d4ba276799a6b6d2a7
+      internalID: -542278484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 851
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d189ba5012509442960c8021de871c6
+      internalID: 1401140270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 852
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05af8e7145a1f429487763cb819f5a
+      internalID: 2098671015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_118
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 853
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a443f362721a72f4ab44563775d51d61
+      internalID: 1910705928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 867
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc51f4f1c6042447a21790e831aab9b
+      internalID: 1459111771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_120
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 850
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d7370c9fde4254ba11c422b2ad9975
+      internalID: -913827404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_121
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 864
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34740579a9efc624c8f820743cb75365
+      internalID: 1860855314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 835
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f76d7d2b8a09b45817afbc3120ab7d
+      internalID: 818085742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_123
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 851
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd5cc2c89c1bc44948fbc58e1ffbce
+      internalID: 634874740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_124
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 842
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce9641dc4f3874ea89c63e2351c55f
+      internalID: 1972082290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_125
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 836
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ee0f34e7ddc746ac4db5d9e46c21d
+      internalID: 983069973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_126
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 839
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b6593c1064d2e4b8a53efbbda6817e
+      internalID: -1893471934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 849
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967189e6a0dc59a49a7d7faf22f9ebb8
+      internalID: 144436240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 835
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d161545f1660b46917879ee0a52a74
+      internalID: -2115430383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_129
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 838
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc50e693081e4534f9990d33bff126cb
+      internalID: 1427943737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_130
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 835
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc425c445d0df43b0bed755a26876b
+      internalID: -1064700128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_131
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 840
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29556835b0cbb0d47b5274ab6628377d
+      internalID: 1540660340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_132
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 835
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcebbc017bd6d1e489b52a74735a0e00
+      internalID: -165947205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_133
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 840
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5106f512ee1b9044b555a0189e116a7
+      internalID: -798950206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_134
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 835
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92baf35301fc81f4c8f1380127693ba6
+      internalID: -684275813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_135
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 841
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab3864e071023c49bfcc244322da5a5
+      internalID: -328853616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_136
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 838
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981ff5cc40d517d4d8e41c44012088bf
+      internalID: 574100448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_137
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 784
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf4eb71c735d244b17ba29c640806b
+      internalID: -1642359324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_138
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 799
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f1df213d4f6604e8a12872a8384f5b
+      internalID: -760313285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_139
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 783
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f305a6e967c0fa04ebbc8007d40863eb
+      internalID: 967126782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_140
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 798
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee0544ee5464b478a6e379602428b2
+      internalID: -536930817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_141
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 779
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90db8c58e930b34e98685b4d1b7b81a
+      internalID: -1021876127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_142
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 777
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78102ef49b51e42864efcde6020c7a
+      internalID: 1040455690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_143
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 773
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d16e8eaa94c364ba7a207ef9b6ce55
+      internalID: 980996608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_144
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 773
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2649dac65e0244b302976f4894591
+      internalID: 347133681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_145
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 775
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee61ce36be4dc479fd1646ae9846fc
+      internalID: -1608377553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_146
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 788
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b2a7eef5896644abf7ef29ce6e126
+      internalID: 1666813337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_147
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 780
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a0b77c3d1e5b43ba25ec7c172245c
+      internalID: 1016620228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_148
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 773
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1b11925e333f4687e07f2288e3c67
+      internalID: 360187137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_149
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 780
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef42a84005f934ea8acc1102a5b46d
+      internalID: 1397261053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_150
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 773
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4e4588a7904a44ba68921488bcbd1
+      internalID: 111678257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_151
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 773
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885bcd4e6be93ed4694ed1d0340a468c
+      internalID: 1159574099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_152
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 773
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e5a08e726fa8248ac52be185a644c1
+      internalID: 511455840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_153
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 777
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b51ffeadc0415458ab6014899fdd6b
+      internalID: 1656510743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_154
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 773
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6541298669d9cc40aba4cfc2ae26ea5
+      internalID: -879698190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_155
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 773
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12826ec4adda243b978d500fcb0a06
+      internalID: 2120407058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 723
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83e2e28881e0b4b990da3b7f2a9665
+      internalID: -1937110842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_157
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 739
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246e2fb554f076429b06785fd1995da
+      internalID: -1090144436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 722
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcd3c2b456fb4f499bc408b3958cefd
+      internalID: -2055963188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_159
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 722
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8afb836dbaf84c8e9e3e68dded97f
+      internalID: 1133864765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_160
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 722
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b55fa36e83ab742ad1fd08927f8e47
+      internalID: 1875290694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_161
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 721
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43297872d61c124ba8dc10de8256843
+      internalID: -1044523215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_162
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 720
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844f8a534e742d74bb61de1b3332cefd
+      internalID: -1731763832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_163
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 714
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e91484cc8377fd4b9528494b1417a82
+      internalID: -1148375498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_164
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 733
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522b5f90518c2e43b29b90bf23686fb
+      internalID: -1877865941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_165
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 713
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e007042985cfb94fb0425ff98468278
+      internalID: -1296002493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_166
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 732
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4713c13745ee0e4ab9474bea46d8ced
+      internalID: 1935428278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_167
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 709
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ae4caa012b9749af7880949016d93
+      internalID: 974102875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_168
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 715
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddfcacaacf93024b8ca5b2d5d38f99b
+      internalID: 2141441338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_169
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 709
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1260db7faa406449251514732b6380
+      internalID: -1263482532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_170
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 713
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef136839f729a994487f5d0675c2e71b
+      internalID: 961631514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_171
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 712
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a6e7622bc0f24dae9ff02a08d78da
+      internalID: -1392343245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_172
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 707
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603481d4b031d3f4895e0727e1591a6c
+      internalID: 745311579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_173
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 715
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a7e220f0c4a34b93e4ced39dee75f
+      internalID: 146486251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_174
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 707
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea66aab1c0cc0499cc13169b1920b8
+      internalID: -1217834869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_175
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 718
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab66da90a511e64ba75c42439b2675c
+      internalID: 905537936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_176
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 716
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab9923f0cdf43a41bf9c47c5cff075d
+      internalID: -19708111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_177
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 707
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcfbe0bf70176e4f9c1d7c9b9f0c983
+      internalID: 1919593102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_178
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 707
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa20b482921bd448f693719f2613b8
+      internalID: -419409832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_179
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 707
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a2e6f08a147f4f802b4e9265b29a2
+      internalID: -1299195037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_180
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 707
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf132c997d83549833b9091ccd9344
+      internalID: 395725713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_181
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 657
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6fb32d602c1945a5d6272c34a7234
+      internalID: 952506859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_182
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 645
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325002943187ce9469e27239bf9d88cc
+      internalID: 329379153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_183
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 659
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3eedd23a26df6439a62d5a4e9e3dd3
+      internalID: 1054741105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 645
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98bef1abc136b4093e10d1c431777d
+      internalID: -402582699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_185
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 662
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3497b56b4e946e64b9e4007f037cbbea
+      internalID: -686593220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_186
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 631
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96c973bff20a84b8e6abf9347871b0
+      internalID: 694269877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_187
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 639
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8b0b9fb451eaf4f8d84af09ecb8527
+      internalID: 875048478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_188
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 644
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727975a2de9c7654e80155ac85c61a76
+      internalID: 1893171848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_189
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 645
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6ec188ac38bf74daf06d2315dd2e2b
+      internalID: 513910986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_190
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 644
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff347cbba4ca9840848e6facd5150fc
+      internalID: 1170498176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_191
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 634
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87853d0946fe5a941a912f923074a2a8
+      internalID: -667809654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_192
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 629
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577194ffdf82474398969dc6bbeedc8
+      internalID: -1100432318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_193
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 633
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e5baf9223c77243b127a0cf28508c2
+      internalID: 160128285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_194
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 637
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6587df2254c03cd449d2a6fe38eba2a6
+      internalID: 570990028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_195
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 636
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0838c3aba3a4adf4d8bb1e72a55bd3d4
+      internalID: 174595625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_196
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 628
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954819f21b8882042a62d623eae77c0d
+      internalID: -76785568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_197
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 628
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98a42a84b8d884bb6555479726061b
+      internalID: 1974275172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_198
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 578
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2da7df91a2db340a6e9ede6bafd33d
+      internalID: -2106791545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_199
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 566
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79da3fbc69212f46bab4d4f8d7c734a
+      internalID: -1272393725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_200
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 571
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16181e84cd0d50e48ba35675601f35ae
+      internalID: -1797514873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_201
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 566
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d14977744b8f74d8f53318e93686ca
+      internalID: 1684209093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_202
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 569
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c338fa2ce5113a48801dd7aaa55072c
+      internalID: 750554510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_203
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 564
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15d5296bc0e2941b4a0aef5d6f446b
+      internalID: 1891631525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_204
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 559
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d285ac642ed2ba54ea0d3a138869dc88
+      internalID: -70988539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_205
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 572
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44914157d51cc5745bbc7a8868844973
+      internalID: 1883606566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_206
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 571
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23845a259a10a542a26d0970b93043e
+      internalID: -2702235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_207
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 571
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8e527ff0af7243924df1de3f79ac6
+      internalID: 454674069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_208
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 570
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a50a2259c527e40a8008065765d39a
+      internalID: 1481325945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_209
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 556
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bf73d4d5d78424595f1cf265ee0c45
+      internalID: -936867720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_210
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 566
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4f013e8aa27c4ebc571a65688a0e3
+      internalID: 1966486319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_211
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 560
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0971b81934ef2b147aa595722346279a
+      internalID: 1085539746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_212
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 555
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d1012f200866a489b1aba1ad5828d8
+      internalID: 269737488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_213
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 555
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423d38105711b8943a32f86c97d0271c
+      internalID: 1415845327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_214
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 555
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762f200e2f7c514b82ca9d8cba262d5
+      internalID: -237892284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 505
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc63de37d3eed94b86945a0d735787f
+      internalID: 1444453434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_216
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 505
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a19a76f10208846aa6b0e96a770462
+      internalID: 1495976708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_217
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 505
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856ff4dcfec29064a920767ed34285e1
+      internalID: 2141711424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_218
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 505
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9829ff1c1c372548ab5fa03e305ad8b
+      internalID: -371617402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_219
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 505
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ff41b2699739439ce53e3f8b23118
+      internalID: 1389661732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_220
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 505
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4b5bbf343d29142b75dae050164159
+      internalID: -1265076576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_221
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 505
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8280ecd57f0fa443b01eccfc75b96f3
+      internalID: 349577685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_222
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 505
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf743353afa472f46a30a1ea229104f6
+      internalID: 2071991641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_223
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 487
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030a344d824cab94a8b410b41c51a8de
+      internalID: -1821237877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_224
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352389b2ab405b94aa523d164ee46ce0
+      internalID: 44048579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_225
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 487
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e78b3cecbd2f845aa9133801ea66cf
+      internalID: -122936341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_226
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 487
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47982f299b050604cba852e5c2629008
+      internalID: 1355373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_227
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 487
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f055b911fa7099d48be1b49c648c2b57
+      internalID: -627255502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_228
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 487
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb4d8c03c665545854ca8ff9015ebb
+      internalID: -1888400824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_229
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 487
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6d4189349da4499c2a0354c070d0b
+      internalID: -2047314047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_230
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7193b8098fb7eb4db4ce42f761438cf
+      internalID: -577502869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_231
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 434
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8cab6b399874f4fa5d27dd46730718
+      internalID: 688565870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_232
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 434
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ead4ba3b6ce5140babe67d70de2c53
+      internalID: -1566795941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_233
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 434
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d6e4968873a9418e8a8edf147d743
+      internalID: -1106060317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_234
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 434
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37c0208d32001b4cb47ae3f84e5d4d3
+      internalID: -255940229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_235
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 434
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd68eb3aae26149b6c78c4a0d0eb8c
+      internalID: -952997192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_236
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 434
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9638f5a79b1f4643b9d22ef9651ba49
+      internalID: -768650104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_237
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 434
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec38f5207eefb544afe53545de81073
+      internalID: 1680385305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_238
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 428
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4255bf2c4ba94abba1ab4236b21ec
+      internalID: -1942576573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_239
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 416
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7e8c5ae1499c24499d0f851e0cae48
+      internalID: -1040353130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_240
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7741d21a6b74664bbccb126d91a59e4
+      internalID: -363555973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_241
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 416
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d318033406844b980f6b9848f5759
+      internalID: -784981317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_242
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 416
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad52239d8b53045a24b4511abf4e2f
+      internalID: -1981601018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_243
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 416
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3ea089e01f8b641a60c98f81ac6cbe
+      internalID: -656957181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_244
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d67ef7d84e3ae0418527e9a1ddaec15
+      internalID: 1300454309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_245
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 422
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6b9404c432b54aa5afc595f325971
+      internalID: 816534354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_246
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 418
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cf731237db378469b935d8f4b3ecbd
+      internalID: -638654745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_247
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 359
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa050e93822074da9e4e19254c0075
+      internalID: 684732336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_248
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 360
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a156ea1c671057445b9feb3ce7dd5b07
+      internalID: 1288755475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_249
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 358
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39085d51d40252d4b994937c2d1d5561
+      internalID: -1934848377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_250
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 358
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb86368614bfe4490f04c215d5e45f
+      internalID: -1128815380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_251
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77235134d19a9cf4eafbbef947ebc42f
+      internalID: 671394820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_252
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c0e221017fbc84280dfe01f05fd5d9
+      internalID: -1640908230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_253
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 340
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8c52100841c44fb77b84206d28202
+      internalID: -1362666351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_254
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 340
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d583344e9c2d1ba4d8353144a77e8bf4
+      internalID: -1214500509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_255
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 340
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64fea342b39e1438695031e049834a
+      internalID: 960758284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_256
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 278
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7869801ab8314f955540fd0a7ccea
+      internalID: -858418002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_257
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 278
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7f3c7f892ae2340b4d8cc247a27485
+      internalID: 1078424485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_258
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 278
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97321ac878f892d4c80efd14325a5758
+      internalID: -1279309411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_259
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 278
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d4e12b467faa4fbc3f77b461083d1
+      internalID: 1540266065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_260
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 278
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b361350e53c0544ae278ebe787ee45
+      internalID: -237575025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_261
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 278
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e650d8665a7647ab141485bf1dbfb
+      internalID: -918237565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_262
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 278
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20cf19edd1f04042886b5b9a9b0b5e5
+      internalID: -1892476622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_263
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 292
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26902d94d071fb546847b581f1eabda0
+      internalID: 1407767222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_264
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 278
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40c208d53cc61a4b8193020c4ddf2d6
+      internalID: -148326902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_265
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3994643705994c980164c0d2cc862
+      internalID: 1708556478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_266
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c1916a36fa314bbf1d47b441000da
+      internalID: 474835027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_267
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 206
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c5406c6d42464aace1e67faa45074
+      internalID: -1268018551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_268
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 200
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39203524a6f99ee4684da66c3e5f1ef9
+      internalID: 1062929808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_269
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 212
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07865fc156c88e34db01261a0eb73588
+      internalID: -872703204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_270
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 201
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9737ea6f8784cac4481cf6f3151601f0
+      internalID: -657878328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_271
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 199
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7587a765ddb044e98491d9f6aa4d78
+      internalID: -276290497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_272
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 200
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4be316df96b124bb8509b1e1fc8e6b
+      internalID: -1652514105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_273
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 198
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c15d92483be044933d282d65745bb
+      internalID: 687355431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_274
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e2ce5ad99df4140992422d7acb4ca9
+      internalID: -588084203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_275
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6e349e2b05eaf46a12e2b2dccd7d20
+      internalID: -1826518469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_276
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a4184aeb937942821079f1dc6a558
+      internalID: -66212483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_277
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 136
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee5ba9f567b32f4cac0da8f07cfc76a
+      internalID: -2109906642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_278
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 136
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313839406ad1b34a941103d9167449e
+      internalID: 164349403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_279
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 136
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1e22dae4874b44bc6b92319075162
+      internalID: 1372663067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_280
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e6a5b28ffbea4ab87406da642bfa3
+      internalID: 469918686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_281
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 70
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc34df42f51e524ab8a0763e191220d
+      internalID: 1010693930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_282
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b288ee9f0c6a4499ff22b847ccd26
+      internalID: -187779623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_283
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f41cae7626f84f970d383a2f477d1
+      internalID: -2045322776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_284
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 70
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f825aa7b87df24ca725e80fd3d2de1
+      internalID: 61302886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_285
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343571461c7704f4291540b48b0fe47a
+      internalID: -448825612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_286
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 70
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d551e996d5c2aaf45a07a71dd220ba1f
+      internalID: -2045234096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_287
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 77
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e313f9bf2cb1eb4294c7ea0d14811de
+      internalID: 1581749646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_288
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 70
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9851f0451fd661d4e9aad658db7b94b3
+      internalID: 1261367455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_289
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 73
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01755e09b2682704ab232d8c6b69d9dc
+      internalID: -267410185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_290
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 75
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492305692aa5b9468137cd8141b5d39
+      internalID: -1106506347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_291
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595072b8b09b8994fa185f6ef7fd0f02
+      internalID: 1397973798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_292
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 73
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80bc8fd573e07245a0d8fe70fc6f7d3
+      internalID: 2092535974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_293
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b446a7ae827a04abfe64fc00d180c2
+      internalID: 677836395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_294
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 70
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa8b6f9deded446b26970277f34937
+      internalID: 202224032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_295
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 73
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a91f62f3d1f9841ae856ee65f66b88
+      internalID: 1141194160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_296
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f699ed7cf1d14cbb221c6fd008ca3
+      internalID: 1983622628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_297
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894a8ba3b3da19147b14149b8aef09c7
+      internalID: -1707852296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_298
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e9300327c67243b1f306398654b9f
+      internalID: 44348616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_299
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078d648be081dc44b87e5f062ff26b6
+      internalID: 1563069104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_300
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32352aa28d2f9d49aecdf3e0c24b091
+      internalID: -1076301948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_301
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02445e4932d6acb48aa962067518e43d
+      internalID: 1878864788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_302
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 12
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43960af4a9851a438a1101f132c1c7d
+      internalID: -1058604083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_303
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 9
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d390ed9fefd6cd4ea66c3e7efa4e3c8
+      internalID: 2118562879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_304
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 11
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164371a1e046d0488705cea74cbbaa3
+      internalID: -1272468104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_305
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 9
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5be4b5431dce94a9b5b97eaa9e617f
+      internalID: 867326349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_306
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270cbf237a22cd44bb9a7766e676f59a
+      internalID: 1149641060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_307
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974c559684ed6c4d8be3d2039f7e400
+      internalID: -513733340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Rayman Raving Rabbids - Rayman Body_308
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 7
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d213d2e328d2b46ad04afb2c8cb8c0
+      internalID: 1995261439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_0: -2082619922
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_1: -1385437176
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_10: 1393060211
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_100: 1693244497
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_101: 101250890
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_102: -1372333445
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_103: -1465226738
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_104: 247213828
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_105: -876742387
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_106: -1945203249
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_107: 897331239
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_108: -447457730
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_109: 1782676409
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_11: 1643812172
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_110: -1088309961
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_111: -1153511717
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_112: -1840473053
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_113: -1311708560
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_114: 801489643
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_115: -542278484
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_116: 1401140270
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_117: 2098671015
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_118: 1910705928
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_119: 1459111771
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_12: 1320740562
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_120: -913827404
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_121: 1860855314
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_122: 818085742
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_123: 634874740
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_124: 1972082290
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_125: 983069973
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_126: -1893471934
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_127: 144436240
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_128: -2115430383
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_129: 1427943737
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_13: -228559603
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_130: -1064700128
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_131: 1540660340
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_132: -165947205
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_133: -798950206
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_134: -684275813
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_135: -328853616
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_136: 574100448
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_137: -1642359324
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_138: -760313285
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_139: 967126782
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_14: -1847430699
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_140: -536930817
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_141: -1021876127
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_142: 1040455690
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_143: 980996608
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_144: 347133681
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_145: -1608377553
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_146: 1666813337
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_147: 1016620228
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_148: 360187137
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_149: 1397261053
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_15: -1621164885
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_150: 111678257
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_151: 1159574099
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_152: 511455840
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_153: 1656510743
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_154: -879698190
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_155: 2120407058
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_156: -1937110842
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_157: -1090144436
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_158: -2055963188
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_159: 1133864765
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_16: -116881256
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_160: 1875290694
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_161: -1044523215
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_162: -1731763832
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_163: -1148375498
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_164: -1877865941
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_165: -1296002493
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_166: 1935428278
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_167: 974102875
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_168: 2141441338
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_169: -1263482532
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_17: 1716886896
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_170: 961631514
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_171: -1392343245
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_172: 745311579
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_173: 146486251
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_174: -1217834869
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_175: 905537936
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_176: -19708111
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_177: 1919593102
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_178: -419409832
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_179: -1299195037
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_18: -2127424620
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_180: 395725713
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_181: 952506859
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_182: 329379153
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_183: 1054741105
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_184: -402582699
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_185: -686593220
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_186: 694269877
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_187: 875048478
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_188: 1893171848
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_189: 513910986
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_19: -1813388060
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_190: 1170498176
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_191: -667809654
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_192: -1100432318
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_193: 160128285
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_194: 570990028
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_195: 174595625
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_196: -76785568
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_197: 1974275172
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_198: -2106791545
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_199: -1272393725
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_2: 869754386
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_20: 2053266793
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_200: -1797514873
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_201: 1684209093
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_202: 750554510
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_203: 1891631525
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_204: -70988539
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_205: 1883606566
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_206: -2702235
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_207: 454674069
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_208: 1481325945
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_209: -936867720
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_21: 104712318
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_210: 1966486319
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_211: 1085539746
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_212: 269737488
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_213: 1415845327
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_214: -237892284
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_215: 1444453434
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_216: 1495976708
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_217: 2141711424
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_218: -371617402
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_219: 1389661732
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_22: 1901452341
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_220: -1265076576
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_221: 349577685
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_222: 2071991641
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_223: -1821237877
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_224: 44048579
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_225: -122936341
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_226: 1355373
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_227: -627255502
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_228: -1888400824
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_229: -2047314047
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_23: -956782127
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_230: -577502869
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_231: 688565870
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_232: -1566795941
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_233: -1106060317
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_234: -255940229
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_235: -952997192
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_236: -768650104
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_237: 1680385305
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_238: -1942576573
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_239: -1040353130
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_24: 1363540694
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_240: -363555973
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_241: -784981317
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_242: -1981601018
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_243: -656957181
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_244: 1300454309
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_245: 816534354
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_246: -638654745
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_247: 684732336
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_248: 1288755475
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_249: -1934848377
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_25: 1618827344
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_250: -1128815380
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_251: 671394820
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_252: -1640908230
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_253: -1362666351
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_254: -1214500509
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_255: 960758284
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_256: -858418002
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_257: 1078424485
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_258: -1279309411
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_259: 1540266065
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_26: 144011689
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_260: -237575025
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_261: -918237565
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_262: -1892476622
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_263: 1407767222
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_264: -148326902
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_265: 1708556478
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_266: 474835027
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_267: -1268018551
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_268: 1062929808
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_269: -872703204
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_27: -273647218
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_270: -657878328
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_271: -276290497
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_272: -1652514105
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_273: 687355431
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_274: -588084203
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_275: -1826518469
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_276: -66212483
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_277: -2109906642
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_278: 164349403
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_279: 1372663067
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_28: -1083297779
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_280: 469918686
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_281: 1010693930
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_282: -187779623
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_283: -2045322776
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_284: 61302886
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_285: -448825612
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_286: -2045234096
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_287: 1581749646
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_288: 1261367455
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_289: -267410185
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_29: 2127224732
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_290: -1106506347
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_291: 1397973798
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_292: 2092535974
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_293: 677836395
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_294: 202224032
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_295: 1141194160
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_296: 1983622628
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_297: -1707852296
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_298: 44348616
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_299: 1563069104
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_3: 1062566454
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_30: 1570790612
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_300: -1076301948
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_301: 1878864788
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_302: -1058604083
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_303: 2118562879
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_304: -1272468104
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_305: 867326349
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_306: 1149641060
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_307: -513733340
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_308: 1995261439
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_31: 947288595
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_32: 1645413351
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_33: 996748564
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_34: -1177394012
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_35: -1372104294
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_36: -1059675746
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_37: -1334761092
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_38: -1451670456
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_39: 2055078819
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_4: 847448946
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_40: -2002590015
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_41: -1548389232
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_42: -132945262
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_43: -1089927021
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_44: -1612007260
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_45: 919825714
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_46: 540700521
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_47: -1748967374
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_48: 1789815961
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_49: 988295192
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_5: -42775074
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_50: -847605463
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_51: -144712295
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_52: 1319054030
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_53: 857710839
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_54: -1512768079
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_55: -688494434
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_56: -649206259
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_57: -172537195
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_58: -157908351
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_59: 1486238005
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_6: 1208564874
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_60: -66942705
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_61: 335106626
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_62: 335840213
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_63: -646153457
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_64: -1215916523
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_65: -258762619
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_66: 1396442334
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_67: 2069117938
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_68: 1626283335
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_69: 986005927
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_7: -1397748636
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_70: 305115962
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_71: -394568068
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_72: 1789774538
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_73: -1781880400
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_74: 1417259158
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_75: -189195556
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_76: -1798443804
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_77: -1360304051
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_78: -923196818
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_79: 421204989
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_8: 588448288
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_80: -947402218
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_81: -1291990910
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_82: 1744266160
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_83: 1649249220
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_84: -56370030
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_85: 884687863
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_86: 113962932
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_87: 1503863796
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_88: -112525784
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_89: 1374644224
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_9: -905000225
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_90: 737781726
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_91: -915708565
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_92: -1902495535
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_93: 458435587
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_94: 25850038
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_95: -550002992
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_96: 496584909
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_97: -1589618570
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_98: -420041223
+      Game Boy Advance - Rayman Raving Rabbids - Rayman Body_99: -1727434742
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
