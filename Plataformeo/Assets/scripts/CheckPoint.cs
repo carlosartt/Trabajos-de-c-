@@ -4,28 +4,16 @@ using UnityEngine;
 
 public class CheckPoint : MonoBehaviour
 {
-
-    [SerializeField] Transform spawnPoint;
-
-    // Start is called before the first frame update
-    void Start()
+    private void OnTriggerEnter2D(Collider2D otro)
     {
-
-        
-    }
-
-    void OnTriggerEnter2D(Collider2D collision)
-    {
-
-        GameObject otro = collision.gameObject;
-        if (otro.tag == "Player")
+        if (otro.CompareTag("Player"))
         {
-            collision.transform.position = spawnPoint.transform.position;
+            // Guarda la posición del checkpoint como la nueva posición de respawn del jugador
+            otro.GetComponent<Personaje>().SetRespawnPoint(transform.position);
 
-            print(otro.name + " toco " + name);
-
-            Destroy(gameObject, 0.5f);
+           
         }
     }
-
 }
+
+

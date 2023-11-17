@@ -3,14 +3,14 @@ using UnityEngine;
 
 public class PoisonItem : MonoBehaviour
 {
-    public EfectoSonoros misSonidos;
+    //public EfectoSonoros misSonidos;
     public int puntosDanio = 1;
     public float duracionVeneno = 5f; // Duración del veneno en segundos
     public GameObject efectoVenenoPrefab;
 
     private void Start()
     {
-        misSonidos = GetComponent<EfectoSonoros>();
+        //misSonidos = GetComponent<EfectoSonoros>();
     }
 
     IEnumerator DanoVeneno(Personaje jugador)
@@ -36,7 +36,7 @@ public class PoisonItem : MonoBehaviour
             print(otro.name + " tocó " + name);
 
             Personaje elPerso = otro.GetComponent<Personaje>();
-            misSonidos.reproducir("veneno");
+            //misSonidos.reproducir("veneno");
 
             GameObject efectoDanio = Instantiate(efectoVenenoPrefab);
 

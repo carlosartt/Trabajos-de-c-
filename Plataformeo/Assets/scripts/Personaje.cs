@@ -18,13 +18,14 @@ public class Personaje : MonoBehaviour
     public bool bloqueado = false;
     private bool yaEjecutado = false;
 
-
     private Animator miAnimado;
     private EfectoSonoros misSonidos;
 
     public GameObject heridasBloodPrefab;
     public GameObject vidasMenosPrefab;
 
+    private Vector3 respawnPoint;
+   
 
     // Start is called before the first frame update
     void Start()
@@ -32,6 +33,9 @@ public class Personaje : MonoBehaviour
 
         miAnimado = GetComponent<Animator>();
         misSonidos = GetComponent<EfectoSonoros>();
+
+        respawnPoint = transform.position;
+       
     }
 
     // Update is called once per frame
@@ -53,7 +57,11 @@ public class Personaje : MonoBehaviour
             misSonidos.reproducir("muerte");
             hp = hpMax;
 
-            Invoke("spawnRepoint", 1f);
+
+            Invoke("Respawn", 3f);
+          
+
+
             //Invoke("reiniciarNivel", 3f);
 
         }
@@ -73,6 +81,22 @@ public class Personaje : MonoBehaviour
             Invoke("gameOver", 2f);
         }
 
+    }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("CheackPoint"))
+        {
+            // Actualiza la posición de respawn cuando toca un nuevo checkpoint
+            respawnPoint = other.transform.position;
+        }
+    }
+
+    void Respawn()
+    {
+        // Respawn en la posición de respawn
+        transform.position = respawnPoint;
+
+        hp = hpMax;
     }
 
     public void hacerDanio(int puntosDanio, GameObject enemigo)
@@ -129,7 +153,7 @@ public class Personaje : MonoBehaviour
         hp = 0;
         vidas--;
     }
-   
+
     public void desbloquear()
     {
         bloqueado = false;
@@ -158,4 +182,10 @@ public class Personaje : MonoBehaviour
         reiniciarNivel();
     }
 
+    
+
+    public void SetRespawnPoint(Vector3 newRespawnPoint)
+    {
+        respawnPoint = newRespawnPoint;
+    }
 }

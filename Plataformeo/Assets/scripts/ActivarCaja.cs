@@ -33,7 +33,7 @@ public class ActivarCaja : MonoBehaviour
                 if (Input.GetKeyDown(KeyCode.E) && !cofreObtenido)
                 {
                     misSonidos.reproducir("abrir");
-                    miAnimador.SetTrigger("cofre_abrir");
+                    miAnimador.Play("cofre_abrir");
                     Invoke("ObtenerCofreItem", cofreDelay);
                     Destroy(gameObject, 1f);
                     botonE.SetActive(false);
