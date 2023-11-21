@@ -1,4 +1,4 @@
-/*using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -24,12 +24,13 @@ public class cameracs : MonoBehaviour
         Cavernicola.transform.position.y, //la pos y
     -1); //la pos de z
         }
-
+        
     }
-}*/
+    
+}
 
 
-using System.Collections;
+/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -97,4 +98,4 @@ public class cameracs : MonoBehaviour
 
         haciendoZoom = false;
     }
-}
+}*/

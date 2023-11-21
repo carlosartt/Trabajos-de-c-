@@ -408,10 +408,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Cavernicola: {fileID: 1540651736}
-  velocidadAcerca: 0.1
-  distanciaMinima: 2
-  zoomFactor: 2
-  metaTag: MetaTag
 --- !u!1001 &244280549
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12331,7 +12327,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6946918268680047432, guid: 4dbb78eb5e8de0542b117a1fa8ed86af, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.3323095
+      value: 2.4167392
       objectReference: {fileID: 0}
     - target: {fileID: 6946918268680047432, guid: 4dbb78eb5e8de0542b117a1fa8ed86af, type: 3}
       propertyPath: m_LocalScale.z
@@ -12339,11 +12335,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6946918268680047432, guid: 4dbb78eb5e8de0542b117a1fa8ed86af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 62.88
+      value: 62.81
       objectReference: {fileID: 0}
     - target: {fileID: 6946918268680047432, guid: 4dbb78eb5e8de0542b117a1fa8ed86af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 26.83
+      value: 30.1237
       objectReference: {fileID: 0}
     - target: {fileID: 6946918268680047432, guid: 4dbb78eb5e8de0542b117a1fa8ed86af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12888,11 +12884,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1258674990680512790, guid: 4d5eb66ad290c9d49ba5eaf1907d6f26, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -58.6
+      value: 17.8
       objectReference: {fileID: 0}
     - target: {fileID: 1258674990680512790, guid: 4d5eb66ad290c9d49ba5eaf1907d6f26, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22.7
+      value: 25.8
       objectReference: {fileID: 0}
     - target: {fileID: 1258674990680512790, guid: 4d5eb66ad290c9d49ba5eaf1907d6f26, type: 3}
       propertyPath: m_LocalPosition.z

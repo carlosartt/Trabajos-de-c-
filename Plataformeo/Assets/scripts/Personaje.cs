@@ -215,4 +215,9 @@ public class Personaje : MonoBehaviour
 
         }
     }
+
+    public void reHp()
+    {
+        hp = hpMax;
+    }
 }
