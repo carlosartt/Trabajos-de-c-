@@ -83,6 +83,10 @@ public class controlador_jugador : MonoBehaviour
             }
            
         }
+        if (Input.GetButton("Fire1") && puedoMoverme)
+        {
+            MiAnimador.SetTrigger("Golpeando");
+        }
 
         MiAnimador.SetFloat("VEL_VERT", velVert);
     }

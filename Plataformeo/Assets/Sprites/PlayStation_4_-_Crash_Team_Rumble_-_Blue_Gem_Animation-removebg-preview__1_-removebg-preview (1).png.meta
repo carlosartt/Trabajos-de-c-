@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 9836b52da1b8e0c409770e8787da9525
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 275
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a072cb6fdb51f748a2a163511ad22c8
+      internalID: 155244011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 275
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9127c8837b0c40d43bb92a3c8639ce0e
+      internalID: 1926441421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 275
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4edb6d3712f1049b8658eefed0c733
+      internalID: 1382764759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af1ab97d577e0348948fe1489ad3e0b
+      internalID: -596441455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 275
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b71e072483a747be1ff427036c647
+      internalID: 1027895252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 275
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c15d2042ab1824d8335e5bdf456574
+      internalID: -970063904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 275
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee33477a9450fe46a312b9d4449a4ae
+      internalID: -207433634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 275
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f972b6a0522f0a438810ddee6e17ac5
+      internalID: -1543118783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 186
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c95c47eb431842980d66620564bae
+      internalID: -3706611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 186
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac0207f59e39943827f980571ed19c
+      internalID: 1187083189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 186
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ee26d754089f44e8696ffb50ec33ea
+      internalID: -968078525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 186
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a704385c926c65a47980878495a24d6c
+      internalID: 1035970033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 186
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b945327024257794f8734a332b4608ce
+      internalID: 413195084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 186
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1510fa180864944a37c59f7e69d98f
+      internalID: 298781033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 187
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed78f4b13e5e674291486536da4ec95
+      internalID: 766326162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 187
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb3c7239f5f2940a206c50e7670303
+      internalID: 927810726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc66cf024011742815ca0e62883212
+      internalID: -1996105741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 98
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01dc4a0ad731f408ae91407f0b18f6
+      internalID: 1037418789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 98
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc00dfcb6f7d248b2cc259ee0a14e2
+      internalID: 1916391966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 98
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef2b6ce061ace40a77ce7d06ce74f1
+      internalID: 1996929162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 98
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274549d8edd75314fbf9e73832c5910a
+      internalID: -717591332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 98
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bad387d8622574babeefd475d321f5
+      internalID: 1045208617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 98
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe42b1a38d06a45ab245dcb1177f15
+      internalID: -619205769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 98
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ac8a6ec024254694e36c4d3f84ae0
+      internalID: 711331297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dff73d5cb810f4e9f618d29acdf8ea
+      internalID: -195663166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 10
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c431c46ec74224c9d2e492c59857e9
+      internalID: 624176139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07faa666e1fc8b4ca3d6ce6efea52ea
+      internalID: -1551667811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 10
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080f6fac91fff1429664b8ba733f2cf
+      internalID: -1583098328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 10
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5ee0a14fad1c242bb4aa8b942e38bb
+      internalID: 716488938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 10
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be58f255bb5e404bbff5e82c18b23bc
+      internalID: 1162108344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 10
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a814f164e409e4dbcd901fcab14ca3
+      internalID: -133805132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 10
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf78c2bd0a9474ebfaca7ddcbc6a9b
+      internalID: 1724416327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_0: 155244011
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_1: 1926441421
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_10: -968078525
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_11: 1035970033
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_12: 413195084
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_13: 298781033
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_14: 766326162
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_15: 927810726
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_16: -1996105741
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_17: 1037418789
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_18: 1916391966
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_19: 1996929162
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_2: 1382764759
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_20: -717591332
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_21: 1045208617
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_22: -619205769
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_23: 711331297
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_24: -195663166
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_25: 624176139
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_26: -1551667811
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_27: -1583098328
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_28: 716488938
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_29: 1162108344
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_3: -596441455
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_30: -133805132
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_31: 1724416327
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_4: 1027895252
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_5: -970063904
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_6: -207433634
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_7: -1543118783
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_8: -3706611
+      PlayStation_4_-_Crash_Team_Rumble_-_Blue_Gem_Animation-removebg-preview__1_-removebg-preview (1)_9: 1187083189
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

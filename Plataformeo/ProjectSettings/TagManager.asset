@@ -11,6 +11,15 @@ TagManager:
   - Boost
   - Boton
   - CheackPoint
+  - NPC
+  - metaTag
+  - MetaTag
+  - Metatag
+  - Meta
+  - gema
+  - Gema
+  - Vidas
+  - Hueso
   layers:
   - Default
   - TransparentFX

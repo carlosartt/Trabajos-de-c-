@@ -19,6 +19,7 @@ public class ActivarCaja : MonoBehaviour
         miAnimador = GetComponent<Animator>();
         botonE = GameObject.Find("BotonE");
         botonE.SetActive(false);
+
     }
 
     void OnTriggerStay2D(Collider2D col)

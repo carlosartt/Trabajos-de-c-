@@ -15,17 +15,18 @@ public class Personaje : MonoBehaviour
     public int vidasMin = 1;
     public int score = 10;
     public int dinero = 0;
+    public int huesos = 0;
     public bool bloqueado = false;
     private bool yaEjecutado = false;
 
-    private Animator miAnimado;
+    public Animator miAnimado;
     private EfectoSonoros misSonidos;
 
     public GameObject heridasBloodPrefab;
     public GameObject vidasMenosPrefab;
 
     private Vector3 respawnPoint;
-   
+
 
     // Start is called before the first frame update
     void Start()
@@ -35,7 +36,7 @@ public class Personaje : MonoBehaviour
         misSonidos = GetComponent<EfectoSonoros>();
 
         respawnPoint = transform.position;
-       
+
     }
 
     // Update is called once per frame
@@ -59,7 +60,7 @@ public class Personaje : MonoBehaviour
 
 
             Invoke("Respawn", 3f);
-          
+
 
 
             //Invoke("reiniciarNivel", 3f);
@@ -88,6 +89,7 @@ public class Personaje : MonoBehaviour
         {
             // Actualiza la posición de respawn cuando toca un nuevo checkpoint
             respawnPoint = other.transform.position;
+
         }
     }
 
@@ -130,6 +132,21 @@ public class Personaje : MonoBehaviour
         if (estaVivo())
         {
             dinero += cantDinero;
+        }
+    }
+
+    public void ganarVidas(int cantVidas, GameObject Tesoro)
+    {
+        if (estaVivo())
+        {
+            vidas += cantVidas;
+        }
+    }
+    public void ganarHuesos(int cantHuesos, GameObject Hueso)
+    {
+        if (estaVivo())
+        {
+            huesos += cantHuesos;
         }
     }
 
@@ -182,10 +199,20 @@ public class Personaje : MonoBehaviour
         reiniciarNivel();
     }
 
-    
+
 
     public void SetRespawnPoint(Vector3 newRespawnPoint)
     {
         respawnPoint = newRespawnPoint;
+    }
+
+   public void celebracion()
+    {
+        if (tag == "Player")
+        {
+            miAnimado.SetTrigger("Celebrando");
+            misSonidos.reproducir("Celebrando");
+
+        }
     }
 }
