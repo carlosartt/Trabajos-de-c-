@@ -1,0 +1,6339 @@
+fileFormatVersion: 2
+guid: 2fb1069f4872af043b0e33f52a8d549b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1709
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1f274cc1f7174890acf11a0fb78d3
+      internalID: -1117053197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1709
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2980a43c63c7c34baa86ba929357407
+      internalID: -2068866224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1709
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25eb546b95f7ba45843109a5b52e293
+      internalID: 244664405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1709
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c3d0a36b0e8247b5cdfec7fbab7c9
+      internalID: -1935178624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1708
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c3f83c0a33614faad7aa5bb90672b
+      internalID: -1008979383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1708
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079b579533c3a464382c39deb0c40f49
+      internalID: 2009188703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1707
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc139b1daf67564da7eb617d4eab217
+      internalID: -1831124225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1707
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ccec04cf8ef044b2fdc6d8c021774
+      internalID: 353607584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1709
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d8a5e8027b2d4e8936079e292bb14
+      internalID: -1936044858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1708
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954b663faf28f9428770f37edb3c861
+      internalID: 274726423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1708
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cace6666696f6b243a7f1f2257507b54
+      internalID: -489843848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1708
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0660e2560d88246b5e8a463c43a826
+      internalID: -349765421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1707
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d8ff35892fc9744b688c70eb26dcdf
+      internalID: -30243725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1707
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a469e85c1ba64d44a0b99d2b0bf50de
+      internalID: 1206660724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1585
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb7ab14f3498f47b20146ffbdf3ba6
+      internalID: 874483676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1584
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cedf0ce57c6446438eebcf01e86223d
+      internalID: -1803809833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1582
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf0f237d776a004a81c5cf548b03a09
+      internalID: 1356314347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1584
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f4e3b27cf1db48b4d7b04a0d05ab6
+      internalID: -1107288521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1589
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a56baf006820429d40e1d001e780b
+      internalID: -559073226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1591
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb03e70346a3646831b2fd6fcd2b37
+      internalID: 1987143507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1588
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277ca9e259d2724dabd1f5f4baeae38
+      internalID: 193949368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1588
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b538759592de1641845625b9ba98e9e
+      internalID: 2120407948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_22
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1588
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170262742f41614489e22468b1c8166a
+      internalID: -934385084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1587
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eaaa2f210d13b46b5d214424ee8db8
+      internalID: -2016512389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1505
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41bede3778c4a44d949a0da05a13957
+      internalID: 51139665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1503
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875a9a10a2d491488681c981db0bb49
+      internalID: 1860673598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1504
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e108924096c7144b9269e4885deb528
+      internalID: 910589047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1503
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc8cd2b6242f2a41815d39a4ecb684b
+      internalID: -1814896278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1506
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dda9c9c927c5643b9296b8c6f44c21
+      internalID: 1355750424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1503
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f90a60fb3fed48b5bb93e5bac494a
+      internalID: 261433953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_30
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1506
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5684be9f7eae8d6498b62bd8e3590420
+      internalID: -836891931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1503
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc511cc1728b6e94d82a2acae11676fc
+      internalID: -956844513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1409
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8590f2cca30e453438ef5818b303bca6
+      internalID: -2061873730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1409
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a06f38216d4b5247ad93d008146f0db
+      internalID: -1178779840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1410
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd0ea7c25ee4f4abba6abbf3053a7b
+      internalID: -881474524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1409
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3000f69788f1814994d619c73f72a1a
+      internalID: -384456924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1409
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f86a603930cde84991eb9d8697b3a2d
+      internalID: -974288884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1409
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b182c39864d8bd84e92fd9e30d5ce45f
+      internalID: 25831247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1409
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f0c582d8241645a4f6797a9c2052a
+      internalID: -226167566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1409
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b58d35e5f227a4c9fca7d4fa7e4cb1
+      internalID: -1633311076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1409
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ae2b950bad0e4485d282e7f27c3b2
+      internalID: 815214193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1409
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1277a7fbf8cbcd498d7390102270d77
+      internalID: -181124916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1301
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8121b8c098d1a4eba5c16b52810a2b
+      internalID: 160922049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1301
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed468458b07b54ca79529dffc96ba4
+      internalID: -1551498711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1301
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7438b5271d4cf3443ba8f1b87c94edca
+      internalID: -1442944902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1302
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e79730a878924894e766e8732d040
+      internalID: -593970613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1302
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257eeacb7b7dade4c9d9cf1317cc87cb
+      internalID: -658629552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1302
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d773b8497048848a82992afef3f6ae
+      internalID: 1294245848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_48
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1302
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b456d5d050c247b631224c702b8c9
+      internalID: 1130672122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1302
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ccc9c931a6fe45ae7de79b76f05b7
+      internalID: 648977686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1302
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4e8f424fb7eb4a8653c253b7518cc
+      internalID: 188936994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1189
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a7796d2c0bd64cb4dbc69bc724d1e
+      internalID: -529184035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1189
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266fcb33daabdaa4ab8ace889c00d320
+      internalID: 1697532500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1189
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2ca03f778f2db4f9be02da70de8431
+      internalID: 2026323569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1189
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da0c0c1b0785348a5c390aaab72b0b
+      internalID: 1138999577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1189
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26322dee94e90564a908b689f2748198
+      internalID: 1172644358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_56
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1189
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e625a8504263a845b40bbc962d096e7
+      internalID: 2126704368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1189
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2578d0698b9aff04fb7ae76d213e463d
+      internalID: 387756867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1189
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071d3cc55526b24cbfee7d25e5ae412
+      internalID: 1534569046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1189
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a95b59e25e914596f125b5190a98c
+      internalID: 134689463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_60
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1189
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad39818f6f1db041a34dff510ded16b
+      internalID: 160671665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_61
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1189
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd3468fe47b4f4993426e296421738
+      internalID: 697371298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_62
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1088
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dac1595466f274a8a8d3384ed97b8f
+      internalID: 2124721280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1088
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb1ae021b11de74e891f9384499caef
+      internalID: 760543260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1088
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364b1aa82ac53a4199430a2fe7b7d7f
+      internalID: 653829679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1088
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f13f0b30b487e64fbdb5652226173f4
+      internalID: -2090476100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_66
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1088
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2a54d506ddfae4cac1cb1b17fe0b5d
+      internalID: -259144736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_67
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1087
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7040be02ec485e7499c5e186f6556e92
+      internalID: -281815289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1088
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba8e89c5ac54740b7449cd84030473
+      internalID: 1465621109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_69
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1088
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dbe37b1ed23ad469f2f603ab83a7d0
+      internalID: 1858444258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_70
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1088
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0602b960aadb5604aa0fce7a52445f70
+      internalID: -786626451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1006
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece48c4bb136b004ba93987d38ae59a7
+      internalID: -1512125511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1006
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa39486c28935499e61a8369188a28
+      internalID: 445142439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_73
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1007
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85577a8e1d3f7104dbc5c0ffa3dbf8cb
+      internalID: -1448381006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_74
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1007
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6c0983ab88394989bfe10d958cc24
+      internalID: -813850130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_75
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1007
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c5f0aa1feca243ad3edc64bc9703a
+      internalID: 40663692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_76
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1006
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de65faa5597704da4d627dc8f27163
+      internalID: 447033000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_77
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1005
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8329238076c4da340bf982271b65b2b5
+      internalID: 1622949014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 906
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c64080da8c61614aac1684219264764
+      internalID: -309532076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 906
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a695e3bb896d64bb1374b48ba53568
+      internalID: 169057440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 909
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d46b3a1615b5c749a6e2ab1d389d268
+      internalID: 1900981389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 910
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf132a6b7804c7a44ab4ab06c5835ac9
+      internalID: -68254669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_82
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 906
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f13e611fd3bbf45a6061be5f745fd8
+      internalID: -87798201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_83
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 907
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8c699f941494408581a09afc6b816
+      internalID: 1742801206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_84
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 907
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5e34156754d22408045f315f268b16
+      internalID: -136504287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_85
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 907
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d2713b9424704789741134da9fce9
+      internalID: -1999466327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 800
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab0b280fb1fac4ca70ce5f26989d88
+      internalID: -656868157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 809
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22528e9f332e8a4458ae25d7619be83b
+      internalID: -1299669978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 805
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7744c9ea412e4db45761775a4335c
+      internalID: -9052115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_89
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 800
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962fe73b5943a34fa1126dbc859d5dc
+      internalID: 766843551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_90
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 800
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfafa37d884173447a33fb4395b950d1
+      internalID: 208502382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_91
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 801
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa641d94de8924a8f91c9cdecf43a0
+      internalID: -1653912152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_92
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 799
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c185f2b1dedef4fbfbca4437aa515c
+      internalID: -163635424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_93
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 799
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc9140427fc894da95dd02a581fc6e
+      internalID: 25281016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_94
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 805
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e0cd6717e995243b03c22c9176e8f5
+      internalID: -1312658175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_95
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 704
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e8033928ffc540b200b8d03398c48
+      internalID: -1820637854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_96
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 704
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a168a42dac4e3418eba0dd1637c422
+      internalID: -627426161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 704
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e27a260f85b24a8f529aa33da353a
+      internalID: 537407213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_98
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 704
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f267fd3b0b4ae40bc3fc96572ba5cb
+      internalID: 1269883938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 720
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad81da8e639344ca8de1e80cfa5cdf
+      internalID: -833682115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 730
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec853686a309df940a61d5d12bc0590b
+      internalID: -1534565634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 724
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f767c5c9e26df45a061b19a5b30799
+      internalID: -381258448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_102
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 705
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a2de18db28fe84797d7b5b186eee70
+      internalID: 739523659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_103
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 705
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdfbf438d825034d82a77dcbbb1a473
+      internalID: 1617333695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_104
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 704
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1389589d68dde0d46be3239d3287437c
+      internalID: -2064152618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_105
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 704
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f475fb4d0abbbd4c90ba804377acfb8
+      internalID: 1527879750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_106
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 705
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6590c9f848102564baed5bfa0d0a404b
+      internalID: 1570734389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_107
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 705
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eade41cb0f37da46aa7c6a608f97121
+      internalID: -2111432608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_108
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 703
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a360f4da080b9e4b93fbbd46b42e3bc
+      internalID: -470666286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_109
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 704
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4d2aa8bada99043976bd41db0e92cb
+      internalID: -1718805500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_110
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 590
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ea0033cb24f0419135ab2af728926
+      internalID: -490606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_111
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 590
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef6de0e323f19448a719cbfd6e03aa
+      internalID: -1189143679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 590
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65be57d4ee2ff4594ee872f8f56239
+      internalID: -545706709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_113
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 585
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6d4987c360ec4da1523945fefd031
+      internalID: -1205086027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_114
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 585
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be2c601178bc44bb7009f0286a7b11
+      internalID: -1890605845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_115
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 636
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d21207bce0a1428a15a50c17249b7
+      internalID: 1678683476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 634
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf9753ff4f2ba44bff364c7cf96ac2
+      internalID: -1042700097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_117
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 643
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d0a17cca1364f4b9710898a833d6db
+      internalID: -1838779033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_118
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 676
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c99dfdfec2034eb4506eb6e70d8da
+      internalID: 249642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 591
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073422e07f2aa0b448f33e53946144ed
+      internalID: -921338918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_120
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 591
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2887897427c43418ebbcd80b7455e1
+      internalID: -1891475134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_121
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 635
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4bb01f85846ed498331986da4a21c1
+      internalID: -1542137658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_122
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 634
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cdf01b86c70db4d9f4c25d9cfa0f4f
+      internalID: -1764584318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_123
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 636
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb41133156adc4aba786cec6ed06f3
+      internalID: -1600498484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_124
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 632
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513ae91344420a64c8840709dbfe318e
+      internalID: 693867524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 632
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08622b2985dda540af1981d161b09b7
+      internalID: 2136154593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_126
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 637
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f8931a33d14d499dc58f12416e083
+      internalID: -629606301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_127
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 590
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ea37404d08574181fc71d8a7ad849
+      internalID: 1203401750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_128
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 613
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4e88927eb850448db7e004a279292
+      internalID: -1572585782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_129
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 605
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb22abad0cf52a4ea6aa6ceb764d961
+      internalID: 1000133791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_130
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 609
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416ac9ee2816654b9989d835f0ccf18
+      internalID: -5049380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_131
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 607
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba41b9e4cb5274aa395453974f9310
+      internalID: -219228752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_132
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 611
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812b68ce8dfd16499f6dde323ed8141
+      internalID: 862699997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_133
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 611
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d893e6c4cbc12e40a29caa9cc73fa06
+      internalID: -462513723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_134
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 612
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb9606051f27d4499e1a8222d93d52
+      internalID: -513598325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_135
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 600
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d712f3409c654e9120a0058f6a250
+      internalID: 895104991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_136
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 609
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d200c14edf3245afdc30bbb752aa1
+      internalID: -108446333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_137
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 613
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f520419da6ea972439c0a129ce847208
+      internalID: 906828946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_138
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 604
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64482327d3f313946bada5ee8e3b3a8a
+      internalID: -224670011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_139
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 600
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52065330f3329947a54dfb066d28608
+      internalID: 826126418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_140
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cec15783ebc12741a7e8e1ccafb6cbc
+      internalID: 2139054409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_141
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 603
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33cc77a6c39c8e4b9dc8d28b882bf81
+      internalID: 642747192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_142
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 590
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c93f79bf57d5469b3e7feebd93daa
+      internalID: -130204701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_143
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 584
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa9921047893ce45a039d7bab2cefb8
+      internalID: -1146307473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_144
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 600
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8cf46e8c54aa4c8f1274dbd4a542c
+      internalID: 1531501850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_145
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 594
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f35679293b44c04497d09560ae15faa
+      internalID: -708402900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_146
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 595
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb5d083db1ccf48b3d52c6f9956761
+      internalID: -2082857485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_147
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 584
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995cfcd87d0249c458cbef7b95f341b5
+      internalID: -226444806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_148
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 504
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6951346835c744da73dd124e8dddc7
+      internalID: 978725071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_149
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 504
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44dd8f4014a99498fb15cede54c329
+      internalID: -532514129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_150
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ff768a50a40044b8047300e70ff94
+      internalID: -1375422216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_151
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 504
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d666cdb5c9288449b29d43a6e895c5a
+      internalID: -1101829202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_152
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 504
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ea6176f6122614b9c61f8b10fd2c98
+      internalID: -645041545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_153
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 521
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6793313b97b9847a8f5efad804df3f
+      internalID: 879336930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_154
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 515
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4876bd2c2c00eef4196996a2ed56bbaa
+      internalID: -2061802755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_155
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 520
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299c9fcefe6ff94598628d4d9aed3bb
+      internalID: 593029362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_156
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 519
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6cf3664b129894f928b5e22673f034
+      internalID: -2080429727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_157
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 400
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425518052eeab414693734acd14acfaa
+      internalID: 232320021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 401
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af40958d4dcef44beaf9b6f282d3a2
+      internalID: 97807255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 401
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f2887097f25248bee7c9e344d7c70
+      internalID: 1448767666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_160
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 401
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88aa2124ae09243b37a228cd96cdb8
+      internalID: -416041233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_161
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 401
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a46f9c6cd009042ac1a80fc8d5800a
+      internalID: 1122510839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_162
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 401
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435b7a7b6730404c9e196f5578c0c93
+      internalID: 415187165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_163
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 402
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201308cb70633524ba364e4923f5542c
+      internalID: -273962216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_164
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 401
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d2566140bd0f9499679f88e116175b
+      internalID: 1776304955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_165
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 401
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7906a2f4890c3244a5f0bf86ffb37e5
+      internalID: 1614549424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_166
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 401
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d13c3d09743e24e8a956c259fe10d8
+      internalID: 2066523671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_167
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 308
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742381921abd17e43a31711ca654da0a
+      internalID: 1283222903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_168
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 308
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146c8247cef2ff24b8a1742ce35fc678
+      internalID: 91359824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_169
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 308
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79324494ec509aa44be57ca211477589
+      internalID: 183408640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_170
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 308
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c11a40f4211a0429d2a542736b74aa
+      internalID: 171565352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_171
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 308
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e37b363d2d15c4f9ae3b0a24a5fa36
+      internalID: 650276237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_172
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 307
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bad9b606c5bb945af5379642764119
+      internalID: -1273832531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_173
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 307
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca4cc4ee885a2d42a0394956c05898d
+      internalID: -798664140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_174
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 298
+        width: 149
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939a110a4f9911c47a0f06aa3597a33a
+      internalID: -968714143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_175
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4afde4e7ac82bb46b2c04a24c9608a0
+      internalID: -322713084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_176
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 230
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bf30f7c93a0c9479e574665cb2bfa9
+      internalID: -783406283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_177
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 230
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a2adc04dc09e74ab7fa652a7a4c191
+      internalID: -444530584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_178
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 230
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37dba51a6cb8924c8ef06e4984b8c53
+      internalID: 2031634300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_179
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f8c7c5fba8d34b81168a303b81f27
+      internalID: -852839661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_180
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 248
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f3db105421d04395c463b396cf3b1
+      internalID: 1331335968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_181
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 280
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e7c80d834b8f6478c745ff359e2670
+      internalID: 109384272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_182
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 267
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305504bb589cd445b0d8ce8db35ec8a
+      internalID: -2032330212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_183
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 229
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6313f211fc5fbc348ae6d9178bbb03a6
+      internalID: 860845737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_184
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 256
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee21f3436e2b8b4082ebfe9d692e7fb
+      internalID: -1967190527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_185
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea2fc02837f0594b98dbade9778350b
+      internalID: 1304011862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_186
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 266
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63993291d42bd04aa68f6690abfaa35
+      internalID: 1049650368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_187
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a842c7a71fa3b40a63abaddfa38d3a
+      internalID: -1809700090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_188
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 264
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3e934c3b2db1840b7c12ff2921c1e0
+      internalID: -1306518179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_189
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a0a377e4cf82438100bdab4f04930
+      internalID: 1288812555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_190
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 266
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaef9bb9eb69bf47a56155600797904
+      internalID: -1403428018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_191
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 266
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb479e6dad949458cbec5f7a21d4b5
+      internalID: -1286256489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_192
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3113bddf221484db8810cb7dbf43eb
+      internalID: -1357319579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_193
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 266
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4606f93a26ec8429a1fb772e1473b1
+      internalID: -825492524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_194
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 266
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7be3844d59bd14ea11bffd02cea807
+      internalID: 1284880607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_195
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff671d40eb1c3f4d84e2d6d482d7f42
+      internalID: 1064725729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_196
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 266
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f8428e24fb8f40bcfccdf416d0a08
+      internalID: -2052299432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_197
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a388666f6a074e8d695baae207a76
+      internalID: -482093019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_198
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 264
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0606a51b9b40b48ab73bc33127c127
+      internalID: -1341210700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_199
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 266
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5054c33b4701dee48ab149314ab9cbd3
+      internalID: -1018368415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_200
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 266
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5cee46acae32b4ea04a20686b08533
+      internalID: 1113569464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_201
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 264
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b0b87e41b64724fae0a7712a1682e2
+      internalID: 919531516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_202
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 266
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2646dcc0fc6e2c48bf5657597f8ad6c
+      internalID: -1544161811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_203
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 266
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21eb78175ea2e44988b8a3a8263c043
+      internalID: -1919869008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_204
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 266
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d74183bfafa314bba97cb39a3a511b
+      internalID: 2062623119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_205
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 266
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917edc39e6b4b864c8553f8103626f87
+      internalID: -1296874249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 266
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8134652522f6b74c957b54295f198a9
+      internalID: 2018922038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_207
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 266
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded8f41704e00834887f66af781a9846
+      internalID: -1094567650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_208
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 266
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5aa256e1cade468adbe1773e79bbf
+      internalID: -1521479581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_209
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abccdcc6baf30304e9edd97441982155
+      internalID: 1118435275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_210
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90656b3d165b37f46b7f1582ab116938
+      internalID: -1793365968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_211
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 266
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c78eaf5d5ede49bff69292d488122
+      internalID: 111436541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_212
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 266
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb5784fa963a5428670daee9780c4c
+      internalID: 1573614205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_213
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 266
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904e4f27b0a28644f9e17e6b3ce24994
+      internalID: 606021478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_214
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 266
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb4944002bd8748974a17f847010ca
+      internalID: 1978099341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_215
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 243
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8bc79bf048acb4b95069821857a5eb
+      internalID: -1698864963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_216
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 233
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c46580bda56ca4db4a8fecd88036d3
+      internalID: -60055681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_217
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 250
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47536882e645cfd44ac29f108e70d5d9
+      internalID: -1039997818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_218
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25530dd7188818d4493a0564eef582f0
+      internalID: 1454711825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_219
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 243
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e480c2bcadb0dc4998058029d5ca893
+      internalID: 1086740691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_220
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 242
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150b5a214be616d46ad55cb088d312a2
+      internalID: -1737919585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_221
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447c55d92a9f3c48a57a5f951ce0f65
+      internalID: 299535348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_222
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6583dcd93a8bb9842a4b86084b70025d
+      internalID: -1690470005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_223
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd932a861bfc549b5a8a5bc8b9e589
+      internalID: -1964978366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_224
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 242
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e5f88538e72049878467e9612b871
+      internalID: -1257526764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_225
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 242
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9db0cd4490bde41a33ebdccba34d2b
+      internalID: 210504665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_226
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 240
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d991d870fac4a42aff83a4104984f1
+      internalID: -1887719406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_227
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 242
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6a2e16ab1b224b964a3a38e2d5317
+      internalID: 1290875253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_228
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 241
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99089cdeb1e934a41ae12a46f38b2686
+      internalID: 311371140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_229
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4db1ae7f07db44b901bbc02d02a3b0
+      internalID: -1798472874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_230
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f65aac85932f0f4988fcc20a133be30
+      internalID: 654326330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_231
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afbe56c06d821e41998db4635ee43a2
+      internalID: 1398432293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_232
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 242
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1205eeafb67e49abda085597c68c8
+      internalID: -411201766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_233
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d6190fa6212be49bc8c03faeef868f
+      internalID: 1621933014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_234
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 242
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3600ea3bbe9295543aa9c19e8f2875d5
+      internalID: -1385562069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_235
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 222
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cf64882859e3847b075a77c0d2f7f5
+      internalID: 1844111298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_236
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 218
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f862579c9ee59448b51d4db04739049
+      internalID: -1531089583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_237
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 218
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a981d42600d3d469fe7bbeae1aa899
+      internalID: -1118622700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_238
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508e4382cca9164a8d2cddbafae5596
+      internalID: -220013627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_239
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 216
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7ad39cde6af24d9fef1025b397822
+      internalID: -2118073527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_240
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 216
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6a9963b7e4a44189d582496a800ea
+      internalID: -99949453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_241
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 218
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a83516743e5e0a43bf4e9aa781d1102
+      internalID: -463003143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_242
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 218
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833800e5ed352c84081ade9244baf7a9
+      internalID: -724070862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_243
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 218
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ec1d1556114441bfcc59897881ab6
+      internalID: 804904873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_244
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 218
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc6dd09637f1e43a0d59e1415e4335
+      internalID: 83693416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_245
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 218
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89de7a49e4a6dd45a822b8c4ecab255
+      internalID: -1482612545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_246
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777eb07cc6bc984496967370949f39f
+      internalID: -1737121991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_247
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d20b488f51e1f458cd3bc419760f83
+      internalID: -607408957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_248
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 127
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddeacc493dcd4545bdec5e3b32deeb9
+      internalID: 232487510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_249
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 128
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d0d33bcb99534e96f78f88dacfaa4
+      internalID: 1413423955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_250
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 194
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc5f75b5e29b44ca91cdc2c0ce218d
+      internalID: 1420082041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_251
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a3b2726b3d4644cbc0622af256c0de
+      internalID: 377905115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_252
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 194
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b8e2528ad9236428f612b548f4ce62
+      internalID: 1092527431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_253
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 194
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616ed6b95c74ed84588944c22c2373d8
+      internalID: -1169824624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_254
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 194
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655be4e4cf09d0a4dbffb4274f2b30b3
+      internalID: 14146991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_255
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1576baf8cf0dd74aa486a678900328f
+      internalID: 1517388659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_256
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 194
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62051698007009b4b9646d3954ba87a1
+      internalID: 1153002988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_257
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cacc2dedf3ee6748993ddbb9bdc90d3
+      internalID: -240430213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_258
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc3ee5c6831aa4abaf69b50aa5d889
+      internalID: 1891113025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_259
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 194
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e19e171b15de45ab16fb36b9f96f6
+      internalID: 2077290619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_260
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8076e117b9f4424887da62099da72a3
+      internalID: -217953832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_261
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 194
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216fcda58179f1544b58c724bed2a0af
+      internalID: -1752089587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_262
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 194
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804993236e223c844ae28c575250928e
+      internalID: 1261244239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_263
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b713c1e9b2c4247bd6ecf43b137e7f
+      internalID: -2009623164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_264
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 192
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65ccfa14ec54eb46bb5e156ea614467
+      internalID: -350484195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_265
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 127
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb016b472dc8aa41be4efa08cbfb4c4
+      internalID: 921226458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_266
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c4d7e092ad4094e8834306f9743d98
+      internalID: -2075768332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_267
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 128
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66b3bcec889b1a4a856645907e0ad1a
+      internalID: 1717315074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_268
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 128
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3bd89d5dbdc5c4cb9db6f24ad457fa
+      internalID: 2094136516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_269
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 127
+        width: 91
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735153cc67fe4a46b286355afa61225
+      internalID: 1056562269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_270
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 124
+        width: 84
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed279f314f756489bc2e35dba43e19
+      internalID: 1848655194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_271
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fa6436677d74a4dbed6d35ca99085e
+      internalID: 1385126541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_272
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e32485766a3c458e820eed1193720
+      internalID: -1441542112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_273
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c4510b4d06ab42a5a56f0286a7c70
+      internalID: 865971245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_274
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 16
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f069ae49489e4e80a92f45a2180f9
+      internalID: 466872576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_275
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 16
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9289dfc8975be24588af5434e8c2518
+      internalID: -1838814839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_276
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 16
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f74559b4b3894a990a616b2a70919
+      internalID: 1897845940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_277
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 16
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f94b852af269940a1a9fe53bda2a4c
+      internalID: 2078140971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_278
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 16
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cf0b4ecf8a4a48b65819a777b29c6
+      internalID: -1583370159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_279
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 16
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac6eaf8a0f321f4fbc8f37d5b8a8238
+      internalID: 856149719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_280
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 16
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e0279d7c9ad84409dd53d67c2ad4e9
+      internalID: 811969568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_281
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 16
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c54d9f7eb75f548bc645479155bf93
+      internalID: 1124220337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_0: -1117053197
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_1: -2068866224
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_10: -489843848
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_100: -1534565634
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_101: -381258448
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_102: 739523659
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_103: 1617333695
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_104: -2064152618
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_105: 1527879750
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_106: 1570734389
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_107: -2111432608
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_108: -470666286
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_109: -1718805500
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_11: -349765421
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_110: -490606305
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_111: -1189143679
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_112: -545706709
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_113: -1205086027
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_114: -1890605845
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_115: 1678683476
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_116: -1042700097
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_117: -1838779033
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_118: 249642493
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_119: -921338918
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_12: -30243725
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_120: -1891475134
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_121: -1542137658
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_122: -1764584318
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_123: -1600498484
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_124: 693867524
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_125: 2136154593
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_126: -629606301
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_127: 1203401750
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_128: -1572585782
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_129: 1000133791
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_13: 1206660724
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_130: -5049380
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_131: -219228752
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_132: 862699997
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_133: -462513723
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_134: -513598325
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_135: 895104991
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_136: -108446333
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_137: 906828946
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_138: -224670011
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_139: 826126418
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_14: 874483676
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_140: 2139054409
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_141: 642747192
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_142: -130204701
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_143: -1146307473
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_144: 1531501850
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_145: -708402900
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_146: -2082857485
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_147: -226444806
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_148: 978725071
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_149: -532514129
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_15: -1803809833
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_150: -1375422216
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_151: -1101829202
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_152: -645041545
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_153: 879336930
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_154: -2061802755
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_155: 593029362
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_156: -2080429727
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_157: 232320021
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_158: 97807255
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_159: 1448767666
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_16: 1356314347
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_160: -416041233
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_161: 1122510839
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_162: 415187165
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_163: -273962216
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_164: 1776304955
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_165: 1614549424
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_166: 2066523671
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_167: 1283222903
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_168: 91359824
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_169: 183408640
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_17: -1107288521
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_170: 171565352
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_171: 650276237
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_172: -1273832531
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_173: -798664140
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_174: -968714143
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_175: -322713084
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_176: -783406283
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_177: -444530584
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_178: 2031634300
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_179: -852839661
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_18: -559073226
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_180: 1331335968
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_181: 109384272
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_182: -2032330212
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_183: 860845737
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_184: -1967190527
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_185: 1304011862
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_186: 1049650368
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_187: -1809700090
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_188: -1306518179
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_189: 1288812555
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_19: 1987143507
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_190: -1403428018
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_191: -1286256489
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_192: -1357319579
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_193: -825492524
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_194: 1284880607
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_195: 1064725729
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_196: -2052299432
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_197: -482093019
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_198: -1341210700
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_199: -1018368415
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_2: 244664405
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_20: 193949368
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_200: 1113569464
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_201: 919531516
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_202: -1544161811
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_203: -1919869008
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_204: 2062623119
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_205: -1296874249
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_206: 2018922038
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_207: -1094567650
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_208: -1521479581
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_209: 1118435275
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_21: 2120407948
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_210: -1793365968
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_211: 111436541
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_212: 1573614205
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_213: 606021478
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_214: 1978099341
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_215: -1698864963
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_216: -60055681
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_217: -1039997818
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_218: 1454711825
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_219: 1086740691
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_22: -934385084
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_220: -1737919585
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_221: 299535348
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_222: -1690470005
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_223: -1964978366
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_224: -1257526764
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_225: 210504665
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_226: -1887719406
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_227: 1290875253
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_228: 311371140
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_229: -1798472874
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_23: -2016512389
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_230: 654326330
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_231: 1398432293
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_232: -411201766
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_233: 1621933014
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_234: -1385562069
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_235: 1844111298
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_236: -1531089583
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_237: -1118622700
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_238: -220013627
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_239: -2118073527
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_24: 51139665
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_240: -99949453
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_241: -463003143
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_242: -724070862
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_243: 804904873
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_244: 83693416
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_245: -1482612545
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_246: -1737121991
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_247: -607408957
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_248: 232487510
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_249: 1413423955
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_25: 1860673598
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_250: 1420082041
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_251: 377905115
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_252: 1092527431
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_253: -1169824624
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_254: 14146991
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_255: 1517388659
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_256: 1153002988
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_257: -240430213
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_258: 1891113025
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_259: 2077290619
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_26: 910589047
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_260: -217953832
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_261: -1752089587
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_262: 1261244239
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_263: -2009623164
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_264: -350484195
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_265: 921226458
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_266: -2075768332
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_267: 1717315074
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_268: 2094136516
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_269: 1056562269
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_27: -1814896278
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_270: 1848655194
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_271: 1385126541
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_272: -1441542112
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_273: 865971245
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_274: 466872576
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_275: -1838814839
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_276: 1897845940
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_277: 2078140971
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_278: -1583370159
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_279: 856149719
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_28: 1355750424
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_280: 811969568
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_281: 1124220337
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_29: 261433953
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_3: -1935178624
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_30: -836891931
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_31: -956844513
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_32: -2061873730
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_33: -1178779840
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_34: -881474524
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_35: -384456924
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_36: -974288884
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_37: 25831247
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_38: -226167566
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_39: -1633311076
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_4: -1008979383
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_40: 815214193
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_41: -181124916
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_42: 160922049
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_43: -1551498711
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_44: -1442944902
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_45: -593970613
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_46: -658629552
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_47: 1294245848
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_48: 1130672122
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_49: 648977686
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_5: 2009188703
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_50: 188936994
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_51: -529184035
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_52: 1697532500
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_53: 2026323569
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_54: 1138999577
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_55: 1172644358
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_56: 2126704368
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_57: 387756867
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_58: 1534569046
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_59: 134689463
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_6: -1831124225
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_60: 160671665
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_61: 697371298
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_62: 2124721280
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_63: 760543260
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_64: 653829679
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_65: -2090476100
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_66: -259144736
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_67: -281815289
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_68: 1465621109
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_69: 1858444258
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_7: 353607584
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_70: -786626451
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_71: -1512125511
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_72: 445142439
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_73: -1448381006
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_74: -813850130
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_75: 40663692
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_76: 447033000
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_77: 1622949014
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_78: -309532076
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_79: 169057440
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_8: -1936044858
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_80: 1900981389
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_81: -68254669
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_82: -87798201
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_83: 1742801206
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_84: -136504287
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_85: -1999466327
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_86: -656868157
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_87: -1299669978
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_88: -9052115
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_89: 766843551
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_9: 274726423
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_90: 208502382
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_91: -1653912152
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_92: -163635424
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_93: 25281016
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_94: -1312658175
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_95: -1820637854
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_96: -627426161
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_97: 537407213
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_98: 1269883938
+      Game Boy Advance - The King of Fighters EX NeoBlood - Iori Yagami_99: -833682115
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
